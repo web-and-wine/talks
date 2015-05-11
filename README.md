@@ -3,6 +3,8 @@ Her mit den Talk Vorschlägen!
 
 Einfach ein Issue mit Talk-Titel und Kurzinfo aufmachen! 
 
-## Videos
-### JavaScript 
-- [ ] [Gary Bernhardt: The Birth & Death of Javascript](https://www.destroyallsoftware.com/talks/the-birth-and-death-of-javascript) [29:22]
+## Die Slides der bisherigen Meetup-Talks
+### Web&Wine Mai 2015
+- [x] [JSON Schema, JSON LD, MDE](https://github.com/Fannon/talks/tree/master/JSON%20Schema%2C%20%20JSON%20LD%20und%20MDE)
+- [x] [Taming stylsheets with BEM](http://www.makandra.de/talks/bem/#/)
+
