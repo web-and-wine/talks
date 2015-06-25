@@ -5,7 +5,7 @@ Einfach ein Issue mit Talk-Titel und Kurzinfo aufmachen!
 
 ## Die Slides der bisherigen Meetup-Talks
 
-### Web&Wine Juni 2016
+### Web&Wine Juni 2015
 - [x] [A Vagrant Primer](http://gremu.net/talks/vagrant-primer/) (von [@gregmuellegger](https://github.com/gregmuellegger))
 
 ### Web&Wine Mai 2015
