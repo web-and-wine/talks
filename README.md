@@ -7,6 +7,7 @@ Einfach ein Issue mit Talk-Titel und Kurzinfo aufmachen!
 
 ### Web&Wine Juni 2015
 - [x] [A Vagrant Primer](http://gremu.net/talks/vagrant-primer/) (von [@gregmuellegger](https://github.com/gregmuellegger))
+- [x] [React Native Introduction](http://frostney.github.io/talks/react-native/slides) (von [@frostney](https://github.com/frostney))
 
 ### Web&Wine Mai 2015
 - [x] [JSON Schema, JSON LD, MDE](https://github.com/Fannon/talks/tree/master/JSON%20Schema%2C%20%20JSON%20LD%20und%20MDE)
