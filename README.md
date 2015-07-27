@@ -8,6 +8,7 @@ Einfach ein Issue mit Talk-Titel und Kurzinfo aufmachen!
 
 ### Web&Wine Juli 2015
 - [x] [Babel (ES Transpiler)](http://frostney.github.io/talks/babel/slides/) (von [@frostney](https://github.com/frostney))
+- [x] [Fighting Spaghetti Code with Promises and Generators (ES 2015)](https://peerigon.github.io/presentations/2015-07-21-webandwine-fighting-spaghetti-code-with-es2015/fighting-spaghetti-code-with-es2015.pdf) (von [@meaku](https://github.com/meaku)) 
 
 ### Web&Wine Juni 2015
 - [x] [A Vagrant Primer](http://gremu.net/talks/vagrant-primer/) (von [@gregmuellegger](https://github.com/gregmuellegger))
