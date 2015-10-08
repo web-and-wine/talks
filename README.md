@@ -8,7 +8,7 @@ Einfach ein Issue mit Talk-Titel und Kurzinfo aufmachen!
 ### Oktober 2015 
 
 - [x] [JSConf.eu 2015 Recap](http://peerigon.github.io/talks/2015-10-06-webandwine-jsconfeu-recap/#1) (von [@meaku](https://github.com/meaku)) 
-- [X] Loopback Workshop (von Manu Achúcarro) 
+- [X] Loopback Workshop (von [Manu Achúcarro](https://github.com/machucarro)) 
 - [X] Four years of native multi-platform development (von Robert Freudenreich)
 
 ### Juli 2015
