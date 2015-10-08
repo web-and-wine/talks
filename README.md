@@ -5,6 +5,11 @@ Einfach ein Issue mit Talk-Titel und Kurzinfo aufmachen!
 
 ## Die Slides der bisherigen Meetup-Talks
 
+### Oktober 2015 
+
+- [x] [JSConf.eu 2015 Recap](http://peerigon.github.io/talks/2015-10-06-webandwine-jsconfeu-recap/#1) (von [@meaku](https://github.com/meaku)) 
+- [ ] Loopback Workshop
+- [ ] Four years of native multi-platform development (von Robert Freudenreich)
 
 ### Web&Wine Juli 2015
 - [x] [Babel (ES Transpiler)](http://frostney.github.io/talks/babel/slides/) (von [@frostney](https://github.com/frostney))
