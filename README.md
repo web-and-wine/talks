@@ -5,8 +5,13 @@ Einfach ein Issue mit Talk-Titel und Kurzinfo aufmachen!
 
 ## Die Slides der bisherigen Meetup-Talks
 
-### Oktober 2015 
+### November 2015 
+- [x] [Amazon AWS](http://de.slideshare.net/EkkardSchnedermann/cloud-at-massive-scale-and-incredible-speed-ekkard-schnedermann-berichtet-von-der-aws-reinvent-2015) (von Ekkard Schnedermann)
+- [x] [DrupalCon](http://slides.com/cpjolly/drupalcon-barcelona-2015#/) (von Chris Jolly)
+- [X] OpenDeviceLab (von [@acidicX](https://github.com/acidicX) und [@ddanier](https://github.com/ddanier) 
+- [x] Vom Entwicklungschaos zum Entwicklungsprozess (von [@frostney](https://github.com/frostney))
 
+### Oktober 2015 
 - [x] [JSConf.eu 2015 Recap](http://peerigon.github.io/talks/2015-10-06-webandwine-jsconfeu-recap/#1) (von [@meaku](https://github.com/meaku)) 
 - [X] Loopback Workshop (von [Manu Achúcarro](https://github.com/machucarro)) 
 - [X] Four years of native multi-platform development (von Robert Freudenreich)
