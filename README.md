@@ -9,7 +9,7 @@ Einfach ein Issue mit Talk-Titel und Kurzinfo aufmachen!
 - [x] [Amazon AWS](http://de.slideshare.net/EkkardSchnedermann/cloud-at-massive-scale-and-incredible-speed-ekkard-schnedermann-berichtet-von-der-aws-reinvent-2015) (von Ekkard Schnedermann)
 - [x] [DrupalCon](http://slides.com/cpjolly/drupalcon-barcelona-2015#/) (von Chris Jolly)
 - [X] OpenDeviceLab (von [@acidicX](https://github.com/acidicX) und [@ddanier](https://github.com/ddanier))
-- [x] [Vom Entwicklungschaos zum Entwicklungsprozess](http://frostney.github.io/talks/devprocess/slides/#1) von [@frostney](https://github.com/frostney))
+- [x] [Vom Entwicklungschaos zum Entwicklungsprozess](http://frostney.github.io/talks/devprocess/slides/#1) (von [@frostney](https://github.com/frostney))
 
 ### Oktober 2015 
 - [x] [JSConf.eu 2015 Recap](http://peerigon.github.io/talks/2015-10-06-webandwine-jsconfeu-recap/#1) (von [@meaku](https://github.com/meaku)) 
