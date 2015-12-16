@@ -5,7 +5,11 @@ Einfach ein Issue mit Talk-Titel und Kurzinfo aufmachen!
 
 ## Die Slides der bisherigen Meetup-Talks
 
-### November 2015 
+### Dezember 2015
+- [x] [Frontend management – yesterday, today and tomorrow?](http://peerigon.github.io/talks/2015-12-15-webandwine-frontend-management) (von [@jhnns](https://github.com/jhnns/) und [@noxan](https://github.com/noxan))
+- [x] [Advanced frontend optimization (with webpack)](http://sokra.github.io/slides/frontend-optimize) (von [@sokra](https://github.com/sokra))
+
+### November 2015
 - [x] [Amazon AWS](http://de.slideshare.net/EkkardSchnedermann/cloud-at-massive-scale-and-incredible-speed-ekkard-schnedermann-berichtet-von-der-aws-reinvent-2015) (von Ekkard Schnedermann)
 - [x] [DrupalCon](http://slides.com/cpjolly/drupalcon-barcelona-2015#/) (von Chris Jolly)
 - [X] OpenDeviceLab (von [@acidicX](https://github.com/acidicX) und [@ddanier](https://github.com/ddanier))
