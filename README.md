@@ -5,6 +5,9 @@ Einfach ein Issue mit Talk-Titel und Kurzinfo aufmachen!
 
 ## Die Slides der bisherigen Meetup-Talks
 
+### Januar 2016
+- [x] [OMFG, Wordpress? Und jetzt!?](http://moritzjacobs.de/files/webandwine/OMFG,%20Wordpress%3F%20Und%20jetzt!%3F.pdf) (von [@moritzjacobs](https://github.com/moritzjacobs/)
+
 ### Dezember 2015
 - [x] [Frontend management – yesterday, today and tomorrow?](http://peerigon.github.io/talks/2015-12-15-webandwine-frontend-management) (von [@jhnns](https://github.com/jhnns/) und [@noxan](https://github.com/noxan))
 - [x] [Advanced frontend optimization (with webpack)](http://sokra.github.io/slides/frontend-optimize) (von [@sokra](https://github.com/sokra))
