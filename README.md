@@ -5,6 +5,9 @@ Einfach ein Issue mit Talk-Titel und Kurzinfo aufmachen!
 
 ## Die Slides der bisherigen Meetup-Talks
 
+### März 2016
+- [x] [Meteor for Dummies - The 1.3 Recap](http://peerigon.github.io/talks/2016-03-22-webandwine-meteor-for-dummies) (von [@acidicX](https://github.com/acidicX/))
+
 ### Februar 2016
 - [x] [VR in the Browser: a-frame introduction](https://github.com/web-and-wine/talks/blob/master/VR_browser.pdf) (von [@m0ndra](https://github.com/m0ndra/))
 
