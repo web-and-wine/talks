@@ -7,6 +7,7 @@ Einfach ein Issue mit Talk-Titel und Kurzinfo aufmachen!
 
 ### März 2016
 - [x] [Meteor for Dummies - The 1.3 Recap](http://peerigon.github.io/talks/2016-03-22-webandwine-meteor-for-dummies) (von [@acidicX](https://github.com/acidicX/))
+- [x] [HTTP/2](http://www.makandra.de/talks/http2/#/) (von [@thomase](https://github.com/thomase))
 
 ### Februar 2016
 - [x] [VR in the Browser: a-frame introduction](https://github.com/web-and-wine/talks/blob/master/VR_browser.pdf) (von [@m0ndra](https://github.com/m0ndra/))
