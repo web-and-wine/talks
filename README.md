@@ -5,6 +5,11 @@ Einfach ein Issue mit Talk-Titel und Kurzinfo aufmachen!
 
 ## Die Slides der bisherigen Meetup-Talks
 
+### April 2016
+- [X] [Promises of a safer web - WebCrypto in 2016] (von [@colbri77](https://github.com/colbri77/))
+- [X] [Is email encrypted yet?] (von [@tanx](https://github.com/tanx))
+- [X] [Intrusion Detection/Prevention for Webservices] (von [@norg](https://github.com/norg))
+
 ### März 2016
 - [x] [Meteor for Dummies - The 1.3 Recap](http://peerigon.github.io/talks/2016-03-22-webandwine-meteor-for-dummies) (von [@acidicX](https://github.com/acidicX/))
 - [x] [HTTP/2](http://www.makandra.de/talks/http2/#/) (von [@thomase](https://github.com/thomase))
