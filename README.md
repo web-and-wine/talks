@@ -6,8 +6,8 @@ Einfach ein Issue mit Talk-Titel und Kurzinfo aufmachen!
 ## Die Slides der bisherigen Meetup-Talks
 
 ### April 2016
-- [ ] [Promises of a safer web - WebCrypto in 2016] (von [@colbri77](https://github.com/colbri77/))
-- [ ] [Is email encrypted yet?] (von [@tanx](https://github.com/tanx))
+- [ ] Promises of a safer web - WebCrypto in 2016 (von [@colbri77](https://github.com/colbri77/))
+- [ ] Is email encrypted yet? (von [@tanx](https://github.com/tanx))
 - [x] [Intrusion Detection/Prevention for Webservices](https://github.com/web-and-wine/talks/blob/master/webandwineapril2016-suricata.pdf) (von [@norg](https://github.com/norg))
 
 ### März 2016
