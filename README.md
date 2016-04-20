@@ -6,9 +6,9 @@ Einfach ein Issue mit Talk-Titel und Kurzinfo aufmachen!
 ## Die Slides der bisherigen Meetup-Talks
 
 ### April 2016
-- [X] [Promises of a safer web - WebCrypto in 2016] (von [@colbri77](https://github.com/colbri77/))
-- [X] [Is email encrypted yet?] (von [@tanx](https://github.com/tanx))
-- [X] [Intrusion Detection/Prevention for Webservices] (von [@norg](https://github.com/norg))
+- [] [Promises of a safer web - WebCrypto in 2016] (von [@colbri77](https://github.com/colbri77/))
+- [] [Is email encrypted yet?] (von [@tanx](https://github.com/tanx))
+- [] [Intrusion Detection/Prevention for Webservices] (von [@norg](https://github.com/norg))
 
 ### März 2016
 - [x] [Meteor for Dummies - The 1.3 Recap](http://peerigon.github.io/talks/2016-03-22-webandwine-meteor-for-dummies) (von [@acidicX](https://github.com/acidicX/))
@@ -32,13 +32,13 @@ Einfach ein Issue mit Talk-Titel und Kurzinfo aufmachen!
 ### November 2015
 - [x] [Amazon AWS](http://de.slideshare.net/EkkardSchnedermann/cloud-at-massive-scale-and-incredible-speed-ekkard-schnedermann-berichtet-von-der-aws-reinvent-2015) (von Ekkard Schnedermann)
 - [x] [DrupalCon](http://slides.com/cpjolly/drupalcon-barcelona-2015#/) (von Chris Jolly)
-- [X] OpenDeviceLab (von [@acidicX](https://github.com/acidicX) und [@ddanier](https://github.com/ddanier))
+- [x] OpenDeviceLab (von [@acidicX](https://github.com/acidicX) und [@ddanier](https://github.com/ddanier))
 - [x] [Vom Entwicklungschaos zum Entwicklungsprozess](http://frostney.github.io/talks/devprocess/slides/#1) (von [@frostney](https://github.com/frostney))
 
 ### Oktober 2015 
 - [x] [JSConf.eu 2015 Recap](http://peerigon.github.io/talks/2015-10-06-webandwine-jsconfeu-recap/#1) (von [@meaku](https://github.com/meaku)) 
-- [X] Loopback Workshop (von [Manu Achúcarro](https://github.com/machucarro)) 
-- [X] Four years of native multi-platform development (von Robert Freudenreich)
+- [x] Loopback Workshop (von [Manu Achúcarro](https://github.com/machucarro)) 
+- [x] Four years of native multi-platform development (von Robert Freudenreich)
 
 ### Juli 2015
 - [x] [Babel (ES Transpiler)](http://frostney.github.io/talks/babel/slides/) (von [@frostney](https://github.com/frostney))
