@@ -1,7 +1,7 @@
 # Talks
 Her mit den Talk Vorschlägen!
 
-Einfach ein Issue mit Talk-Titel und Kurzinfo aufmachen! 
+Einfach ein Issue mit Talk-Titel und Kurzinfo aufmachen!
 
 ## Die Slides der bisherigen Meetup-Talks
 
@@ -27,14 +27,14 @@ Einfach ein Issue mit Talk-Titel und Kurzinfo aufmachen!
 - [X] OpenDeviceLab (von [@acidicX](https://github.com/acidicX) und [@ddanier](https://github.com/ddanier))
 - [x] [Vom Entwicklungschaos zum Entwicklungsprozess](http://frostney.github.io/talks/devprocess/slides/#1) (von [@frostney](https://github.com/frostney))
 
-### Oktober 2015 
-- [x] [JSConf.eu 2015 Recap](http://peerigon.github.io/talks/2015-10-06-webandwine-jsconfeu-recap/#1) (von [@meaku](https://github.com/meaku)) 
-- [X] Loopback Workshop (von [Manu Achúcarro](https://github.com/machucarro)) 
+### Oktober 2015
+- [x] [JSConf.eu 2015 Recap](http://peerigon.github.io/talks/2015-10-06-webandwine-jsconfeu-recap/#1) (von [@meaku](https://github.com/meaku))
+- [X] Loopback Workshop (von [Manu Achúcarro](https://github.com/machucarro))
 - [X] Four years of native multi-platform development (von Robert Freudenreich)
 
 ### Juli 2015
 - [x] [Babel (ES Transpiler)](http://frostney.github.io/talks/babel/slides/) (von [@frostney](https://github.com/frostney))
-- [x] [Fighting Spaghetti Code with Promises and Generators (ES 2015)](https://peerigon.github.io/presentations/2015-07-21-webandwine-fighting-spaghetti-code-with-es2015/fighting-spaghetti-code-with-es2015.pdf) (von [@meaku](https://github.com/meaku)) 
+- [x] [Fighting Spaghetti Code with Promises and Generators (ES 2015)](https://peerigon.github.io/presentations/2015-07-21-webandwine-fighting-spaghetti-code-with-es2015/fighting-spaghetti-code-with-es2015.pdf) (von [@meaku](https://github.com/meaku))
 
 ### Juni 2015
 - [x] [A Vagrant Primer](http://gremu.net/talks/vagrant-primer/) (von [@gregmuellegger](https://github.com/gregmuellegger))
