@@ -5,6 +5,10 @@ Einfach ein Issue mit Talk-Titel und Kurzinfo aufmachen!
 
 ## Die Slides der bisherigen Meetup-Talks
 
+### Mai 2016
+
+- [x] [Ember.js - An ambitious introduction](http://pichfl.github.io/talks/5-ember-js) (von [@pichfl](https://github.com/pichfl))
+
 ### Januar 2016
 - [x] [OMFG, Wordpress? Und jetzt!?](http://moritzjacobs.de/files/webandwine/OMFG,%20Wordpress%3F%20Und%20jetzt!%3F.pdf) (von [@moritzjacobs](https://github.com/moritzjacobs/))
 - [x] [Try PostCSS](http://pichfl.github.io/talks/3-try-postcss) (von [@pichfl](https://github.com/pichfl))
