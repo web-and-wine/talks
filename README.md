@@ -8,6 +8,7 @@ Einfach ein Issue mit Talk-Titel und Kurzinfo aufmachen!
 ### Mai 2016
 
 - [x] [Ember.js - An ambitious introduction](http://pichfl.github.io/talks/5-ember-js) (von [@pichfl](https://github.com/pichfl))
+- [x] [Visual storytelling ](https://github.com/web-and-wine/talks/blob/master/Visual-Storytelling_WebWine.pdf) (von [@LisaBorg](https://github.com/LisaBorg/))
 
 ### April 2016
 - [x] [Promises of a safer web - WebCrypto in 2016](https://github.com/web-and-wine/talks/blob/master/WebCrypto2016.pdf) (von [@colbri77](https://github.com/colbri77/))
