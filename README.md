@@ -1,9 +1,13 @@
 # Talks
 Her mit den Talk Vorschlägen!
 
-Einfach ein Issue mit Talk-Titel und Kurzinfo aufmachen! 
+Einfach ein Issue mit Talk-Titel und Kurzinfo aufmachen!
 
 ## Die Slides der bisherigen Meetup-Talks
+
+### Mai 2016
+
+- [x] [Ember.js - An ambitious introduction](http://pichfl.github.io/talks/5-ember-js) (von [@pichfl](https://github.com/pichfl))
 
 ### April 2016
 - [x] [Promises of a safer web - WebCrypto in 2016](https://github.com/web-and-wine/talks/blob/master/WebCrypto2016.pdf) (von [@colbri77](https://github.com/colbri77/))
@@ -19,8 +23,8 @@ Einfach ein Issue mit Talk-Titel und Kurzinfo aufmachen!
 
 ### Januar 2016
 - [x] [OMFG, Wordpress? Und jetzt!?](http://moritzjacobs.de/files/webandwine/OMFG,%20Wordpress%3F%20Und%20jetzt!%3F.pdf) (von [@moritzjacobs](https://github.com/moritzjacobs/))
-- [x] [Try PostCSS](http://pichfl.github.io/talks/2-try-postcss/#intro) (von [@pichfl](https://github.com/pichfl))
-- [x] [A quick introduction to ESLint](http://pichfl.github.io/talks/1-quick-intro-to-eslint/#intro) (von [@pichfl](https://github.com/pichfl))
+- [x] [Try PostCSS](http://pichfl.github.io/talks/3-try-postcss) (von [@pichfl](https://github.com/pichfl))
+- [x] [A quick introduction to ESLint](http://pichfl.github.io/talks/2-quick-intro-to-eslint) (von [@pichfl](https://github.com/pichfl))
 
 ### Dezember 2015
 - [x] [Frontend management – yesterday, today and tomorrow?](http://peerigon.github.io/talks/2015-12-15-webandwine-frontend-management) (von [@jhnns](https://github.com/jhnns/) und [@noxan](https://github.com/noxan))
@@ -42,7 +46,7 @@ Einfach ein Issue mit Talk-Titel und Kurzinfo aufmachen!
 
 ### Juli 2015
 - [x] [Babel (ES Transpiler)](http://frostney.github.io/talks/babel/slides/) (von [@frostney](https://github.com/frostney))
-- [x] [Fighting Spaghetti Code with Promises and Generators (ES 2015)](https://peerigon.github.io/presentations/2015-07-21-webandwine-fighting-spaghetti-code-with-es2015/fighting-spaghetti-code-with-es2015.pdf) (von [@meaku](https://github.com/meaku)) 
+- [x] [Fighting Spaghetti Code with Promises and Generators (ES 2015)](https://peerigon.github.io/presentations/2015-07-21-webandwine-fighting-spaghetti-code-with-es2015/fighting-spaghetti-code-with-es2015.pdf) (von [@meaku](https://github.com/meaku))
 
 ### Juni 2015
 - [x] [A Vagrant Primer](http://gremu.net/talks/vagrant-primer/) (von [@gregmuellegger](https://github.com/gregmuellegger))
