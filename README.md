@@ -5,6 +5,10 @@ Einfach ein Issue mit Talk-Titel und Kurzinfo aufmachen!
 
 ## Die Slides der bisherigen Meetup-Talks
 
+### Juni 2016
+
+- [x] [Dr. Flexbox or how I learned to stop worrying and vertically align the box](http://peerigon.github.io/talks/2016-06-28-webandwine-dr-flexbox) (von [@jhnns](https://github.com/jhnns))
+
 ### Mai 2016
 
 - [x] [Ember.js - An ambitious introduction](http://pichfl.github.io/talks/5-ember-js) (von [@pichfl](https://github.com/pichfl))
