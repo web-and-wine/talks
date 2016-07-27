@@ -7,6 +7,7 @@ Einfach ein Issue mit Talk-Titel und Kurzinfo aufmachen!
 
 ### Juni 2016
 
+- [x] [Xamarin - What's new - A report from Evolve 2016](https://github.com/web-and-wine/talks/blob/master/Web&Wine_Xamarin_2016.pdf) (von [@xitasoappdev](https://github.com/xitasoappdev))
 - [x] [Dr. Flexbox or how I learned to stop worrying and vertically align the box](http://peerigon.github.io/talks/2016-06-28-webandwine-dr-flexbox) (von [@jhnns](https://github.com/jhnns))
 
 ### Mai 2016
