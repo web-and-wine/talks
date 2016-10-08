@@ -29,7 +29,7 @@ Einfach ein Issue mit Talk-Titel und Kurzinfo aufmachen!
 - [x] [VR in the Browser: a-frame introduction](https://github.com/web-and-wine/talks/blob/master/VR_browser.pdf) (von [@m0ndra](https://github.com/m0ndra/))
 
 ### Januar 2016
-- [x] [OMFG, Wordpress? Und jetzt!?](http://moritzjacobs.de/files/webandwine/OMFG,%20Wordpress%3F%20Und%20jetzt!%3F.pdf) (von [@moritzjacobs](https://github.com/moritzjacobs/))
+- [x] [OMFG, Wordpress? Und jetzt!?](https://moritzjacobs.de/files/webandwine/OMFG,%20Wordpress%3f%20Und%20jetzt!%3f.pdf) (von [@moritzjacobs](https://github.com/moritzjacobs/))
 - [x] [Try PostCSS](http://pichfl.github.io/talks/3-try-postcss) (von [@pichfl](https://github.com/pichfl))
 - [x] [A quick introduction to ESLint](http://pichfl.github.io/talks/2-quick-intro-to-eslint) (von [@pichfl](https://github.com/pichfl))
 
