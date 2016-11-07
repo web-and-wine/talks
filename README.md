@@ -5,6 +5,10 @@ Einfach ein Issue mit Talk-Titel und Kurzinfo aufmachen!
 
 ## Die Slides der bisherigen Meetup-Talks
 
+### Oktober 2016
+
+- [x] [Introduction to Docker](https://peerigon.github.io/talks/2016-10-18-webandwine-introduction-to-docker) (von [@matthaias](https://github.com/matthaias))
+
 ### Juni 2016
 
 - [x] [Xamarin - What's new - A report from Evolve 2016](https://github.com/web-and-wine/talks/blob/master/Web&Wine_Xamarin_2016.pdf) (von [@xitasoappdev](https://github.com/xitasoappdev))
