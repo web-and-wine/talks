@@ -5,6 +5,10 @@ Einfach ein Issue mit Talk-Titel und Kurzinfo aufmachen!
 
 ## Die Slides der bisherigen Meetup-Talks
 
+### November 2016
+
+- [x] [CSS from the future](http://peerigon.github.io/talks/2016-11-08-css-from-the-future/#1) (von [@jhnns](https://github.com/jhnns))
+
 ### Oktober 2016
 
 - [x] [Introduction to Docker](https://peerigon.github.io/talks/2016-10-18-webandwine-introduction-to-docker) (von [@matthaias](https://github.com/matthaias))
