@@ -1,4 +1,4 @@
-urprünglich veröffentlicht auf <www.dastra.de>
+urprünglich veröffentlicht auf www.dastra.de
 
 ## Herzlich Willkommen zum 1-Minuten-Blog mit Hugo!
 
