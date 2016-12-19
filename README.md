@@ -11,6 +11,10 @@ Bitte einfach ein Issue mit Talk-Titel und Kurzinfo aufmachen!
 
 ## Die Slides der bisherigen Meetup-Talks
 
+### Dezember 2016-11
+
+- [x] [1-Minuten-Blog mit Hugo](https://github.com/web-and-wine/talks/blob/master//1-Minuten-Blog_mit_Hugo.md) (von [Daniel Straßner](https://github.com/dastrasmue))
+
 ### November 2016
 
 - [x] [CSS from the future](http://peerigon.github.io/talks/2016-11-08-css-from-the-future/#1) (von [@jhnns](https://github.com/jhnns))
@@ -60,9 +64,9 @@ Bitte einfach ein Issue mit Talk-Titel und Kurzinfo aufmachen!
 - [x] OpenDeviceLab (von [@acidicX](https://github.com/acidicX) und [@ddanier](https://github.com/ddanier))
 - [x] [Vom Entwicklungschaos zum Entwicklungsprozess](http://frostney.github.io/talks/devprocess/slides/#1) (von [@frostney](https://github.com/frostney))
 
-### Oktober 2015 
-- [x] [JSConf.eu 2015 Recap](http://peerigon.github.io/talks/2015-10-06-webandwine-jsconfeu-recap/#1) (von [@meaku](https://github.com/meaku)) 
-- [x] Loopback Workshop (von [Manu Achúcarro](https://github.com/machucarro)) 
+### Oktober 2015
+- [x] [JSConf.eu 2015 Recap](http://peerigon.github.io/talks/2015-10-06-webandwine-jsconfeu-recap/#1) (von [@meaku](https://github.com/meaku))
+- [x] Loopback Workshop (von [Manu Achúcarro](https://github.com/machucarro))
 - [x] Four years of native multi-platform development (von Robert Freudenreich)
 
 ### Juli 2015
@@ -77,4 +81,3 @@ Bitte einfach ein Issue mit Talk-Titel und Kurzinfo aufmachen!
 ### Mai 2015
 - [x] [JSON Schema, JSON LD, MDE](https://github.com/Fannon/talks/tree/master/JSON%20Schema%2C%20%20JSON%20LD%20und%20MDE)
 - [x] [Taming stylsheets with BEM](http://www.makandra.de/talks/bem/#/)
-
