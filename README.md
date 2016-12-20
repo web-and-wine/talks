@@ -11,7 +11,7 @@ Bitte einfach ein Issue mit Talk-Titel und Kurzinfo aufmachen!
 
 ## Die Slides der bisherigen Meetup-Talks
 
-### Dezember 2016-11
+### Dezember 2016
 
 - [x] [1-Minuten-Blog mit Hugo](https://github.com/web-and-wine/talks/blob/master//1-Minuten-Blog_mit_Hugo.md) (von [Daniel Straßner](https://github.com/dastrasmue))
 
