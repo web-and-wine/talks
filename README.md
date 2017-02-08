@@ -11,6 +11,12 @@ Bitte einfach ein Issue mit Talk-Titel und Kurzinfo aufmachen!
 
 ## Die Slides der bisherigen Meetup-Talks
 
+### Januar 2017
+
+- [x] [JavaScript on Hardware](http://peerigon.github.io/talks/2017-02-07-web-and-wine-js-on-hardware/) (von [@meaku](https://github.com/meaku))
+
+------
+
 ### Dezember 2016
 
 - [x] [1-Minuten-Blog mit Hugo](https://github.com/web-and-wine/talks/blob/master//1-Minuten-Blog_mit_Hugo.md) (von [Daniel Straßner](https://github.com/dastrasmue))
@@ -50,6 +56,8 @@ Bitte einfach ein Issue mit Talk-Titel und Kurzinfo aufmachen!
 - [x] [OMFG, Wordpress? Und jetzt!?](https://moritzjacobs.de/files/webandwine/OMFG,%20Wordpress%3f%20Und%20jetzt!%3f.pdf) (von [@moritzjacobs](https://github.com/moritzjacobs/))
 - [x] [Try PostCSS](http://pichfl.github.io/talks/3-try-postcss) (von [@pichfl](https://github.com/pichfl))
 - [x] [A quick introduction to ESLint](http://pichfl.github.io/talks/2-quick-intro-to-eslint) (von [@pichfl](https://github.com/pichfl))
+
+-----
 
 ### Dezember 2015
 - [x] [Frontend management – yesterday, today and tomorrow?](http://peerigon.github.io/talks/2015-12-15-webandwine-frontend-management) (von [@jhnns](https://github.com/jhnns/) und [@noxan](https://github.com/noxan))
