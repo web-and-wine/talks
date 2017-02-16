@@ -11,9 +11,10 @@ Bitte einfach ein Issue mit Talk-Titel und Kurzinfo aufmachen!
 
 ## Die Slides der bisherigen Meetup-Talks
 
-### Januar 2017
+### Februar 2017
 
 - [x] [JavaScript on Hardware](http://peerigon.github.io/talks/2017-02-07-web-and-wine-js-on-hardware/) (von [@meaku](https://github.com/meaku))
+- [x] [The Case for CSS Modules](http://peerigon.github.io/talks/2017-02-07-webandwine-the-case-for-css-modules) (von [@flootr](https://github.com/flootr))
 
 ------
 
