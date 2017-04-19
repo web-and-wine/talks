@@ -3,13 +3,19 @@ Her mit den Talk Vorschlägen!
 
 ## Talk einreichen
 
-Talks sollten nicht länger als 30 Minuten sein, Lighning Talks die 15 Minuten nicht überschreiten. 
+Talks sollten nicht länger als 30 Minuten sein, Lighning Talks die 15 Minuten nicht überschreiten.
 Natürlich können wir auch mal eine Ausnahme machen, sofern es das Programm zulässt.
 
 Bitte einfach ein Issue mit Talk-Titel und Kurzinfo aufmachen!
 
 
 ## Die Slides der bisherigen Meetup-Talks
+
+
+### April 2017
+
+- [x] [How I created a desktop app in minutes](./How-I-created-a-desktop-app-in-minutes-pichfl.pdf) (Ember & Electron) (von [Florian Pichler](https://github.com/pichfl))
+
 
 ### Februar 2017
 
