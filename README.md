@@ -3,7 +3,7 @@ Her mit den Talk Vorschlägen!
 
 ## Talk einreichen
 
-Talks sollten nicht länger als 30 Minuten sein, Lighning Talks die 15 Minuten nicht überschreiten. 
+Talks sollten nicht länger als 30 Minuten sein, Lighning Talks die 15 Minuten nicht überschreiten.
 Natürlich können wir auch mal eine Ausnahme machen, sofern es das Programm zulässt.
 
 Bitte einfach ein Issue mit Talk-Titel und Kurzinfo aufmachen!
@@ -12,7 +12,9 @@ Bitte einfach ein Issue mit Talk-Titel und Kurzinfo aufmachen!
 ## Die Slides der bisherigen Meetup-Talks
 
 ### April 2017
+
 - [x] [git deployments done right](https://github.com/web-and-wine/talks/blob/master/2017-04 git Deployments done right.pdf) (von [@ddanier](https://github.com/ddanier/))
+- [x] [How I created a desktop app in minutes](./How-I-created-a-desktop-app-in-minutes-pichfl.pdf) (Ember & Electron) (von [Florian Pichler](https://github.com/pichfl))
 
 ### Februar 2017
 
