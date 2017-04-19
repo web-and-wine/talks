@@ -11,6 +11,9 @@ Bitte einfach ein Issue mit Talk-Titel und Kurzinfo aufmachen!
 
 ## Die Slides der bisherigen Meetup-Talks
 
+### April 2017
+- [x] [git deployments done right](https://github.com/web-and-wine/talks/blob/master/2017-04 git Deployments done right.pdf) (von [@ddanier](https://github.com/ddanier/))
+
 ### Februar 2017
 
 - [x] [JavaScript on Hardware](http://peerigon.github.io/talks/2017-02-07-web-and-wine-js-on-hardware/) (von [@meaku](https://github.com/meaku))
