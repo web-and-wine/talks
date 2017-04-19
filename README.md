@@ -13,8 +13,8 @@ Bitte einfach ein Issue mit Talk-Titel und Kurzinfo aufmachen!
 
 ### April 2017
 
-- [x] [git deployments done right](https://github.com/web-and-wine/talks/blob/master/2017-04 git Deployments done right.pdf) (von [@ddanier](https://github.com/ddanier/))
-- [x] [How I created a desktop app in minutes](./How-I-created-a-desktop-app-in-minutes-pichfl.pdf) (Ember & Electron) (von [Florian Pichler](https://github.com/pichfl))
+- [x] [git deployments done right](https://github.com/web-and-wine/talks/blob/master/2017-04%20git%20Deployments%20done%20right.pdf) (von [@ddanier](https://github.com/ddanier/)
+- [x] [How I created a desktop app in minutes](./How-I-created-a-desktop-app-in-minutes-pichfl.pdf) (Ember & Electron) (von [Florian Pichler](https://github.com/pichfl))
 
 ### Februar 2017
 
