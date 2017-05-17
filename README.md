@@ -11,6 +11,10 @@ Bitte einfach ein Issue mit Talk-Titel und Kurzinfo aufmachen!
 
 ## Die Slides der bisherigen Meetup-Talks
 
+### Mai 2017
+
+- [x] [HTTPS with Let's Encrypt](https://peerigon.github.io/talks/2017-05-16-web-and-wine-https-lets-encrypt/) (von [@acidicX](https://github.com/acidicX))
+
 ### April 2017
 
 - [x] [git deployments done right](https://github.com/web-and-wine/talks/blob/master/2017-04%20git%20Deployments%20done%20right.pdf) (von [@ddanier](https://github.com/ddanier/))
