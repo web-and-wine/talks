@@ -15,6 +15,10 @@ Bitte einfach ein Issue mit Talk-Titel und Kurzinfo aufmachen!
 
 - [x] [Reshape the digital design process](./2017-07-Reshape-Digital-Design-Process-25min.pdf) (von Fabian Ziegler // Team23)
 
+### Juni 2017
+
+- [x] [Angular 4](https://github.com/noxan/talks/tree/angular-4) (von [@noxan](https://github.com/noxan))
+
 ### Mai 2017
 
 - [x] [HTTPS with Let's Encrypt](https://peerigon.github.io/talks/2017-05-16-web-and-wine-https-lets-encrypt/) (von [@acidicX](https://github.com/acidicX))
