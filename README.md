@@ -11,6 +11,11 @@ Bitte einfach ein Issue mit Talk-Titel und Kurzinfo aufmachen!
 
 ## Die Slides der bisherigen Meetup-Talks
 
+### Oktober 2017
+
+- [x] [Hands on Offline First! with Hoodie](http://peerigon.github.io/talks/2017-10-17-web-and-wine-offline-first-with-hoodie/dist/) (von [@flootr](https://github.com/flootr))
+
+
 ### Juli 2017
 
 - [x] [Reshape the digital design process](./2017-07-Reshape-Digital-Design-Process-25min.pdf) (von Fabian Ziegler // Team23)
