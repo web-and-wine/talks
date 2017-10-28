@@ -27,6 +27,7 @@ Bitte einfach ein Issue mit Talk-Titel und Kurzinfo aufmachen!
 
 ### Mai 2017
 
+- [x] [Better Styles with StyleLint](./Better-Styles-with-StyleLint-pichfl.pdf) (von [@pichfl](https://github.com/pichfl))
 - [x] [HTTPS with Let's Encrypt](https://peerigon.github.io/talks/2017-05-16-web-and-wine-https-lets-encrypt/) (von [@acidicX](https://github.com/acidicX))
 
 ### April 2017
