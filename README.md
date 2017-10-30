@@ -34,7 +34,7 @@ Bitte einfach ein Issue mit Talk-Titel und Kurzinfo aufmachen!
 
 - [x] [git deployments done right](https://github.com/web-and-wine/talks/blob/master/2017-04%20git%20Deployments%20done%20right.pdf) (von [@ddanier](https://github.com/ddanier/))
 - [x] [How I created a desktop app in minutes](./How-I-created-a-desktop-app-in-minutes-pichfl.pdf) (Ember & Electron) (von [Florian Pichler](https://github.com/pichfl))
-- [x] [A skilled kit - Amazon Alexa skill development] (https://github.com/KikoSt/talks/blob/master/Alexa.pdf) (von Kiko Starkmann)
+- [x] [A skilled kit - Amazon Alexa skill development](https://github.com/KikoSt/talks/blob/master/Alexa.pdf) (von Kiko Starkmann)
 
 ### März 2017
 
