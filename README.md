@@ -17,7 +17,7 @@ Bitte einfach ein Issue mit Talk-Titel und Kurzinfo aufmachen!
 
 
 ### Juli 2017
-
+- [x] [Are these my assets?](./2017-07-SRI.md) (von [@theWeird](https://github.com/theWeird))
 - [x] [Reshape the digital design process](./2017-07-Reshape-Digital-Design-Process-25min.pdf) (von Fabian Ziegler // Team23)
 - [x] [How did I survive my hardware project?!](./HowDidISurviveMyHardwareProject%3F!.pdf) (von [@blacklist](https://github.com/blacklist))
 
