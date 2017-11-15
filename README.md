@@ -11,6 +11,10 @@ Bitte einfach ein Issue mit Talk-Titel und Kurzinfo aufmachen!
 
 ## Die Slides der bisherigen Meetup-Talks
 
+### November 2017
+
+- [x] [Entwicklung mit der Hololens](https://github.com/web-and-wine/talks/files/1474004/hololens_presentation.pdf) (von [@armingratzl](https://github.com/armingratzl))
+
 ### Oktober 2017
 
 - [x] [Hands on Offline First! with Hoodie](http://peerigon.github.io/talks/2017-10-17-web-and-wine-offline-first-with-hoodie/dist/) (von [@flootr](https://github.com/flootr))
