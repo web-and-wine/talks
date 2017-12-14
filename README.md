@@ -13,7 +13,7 @@ Bitte einfach ein Issue mit Talk-Titel und Kurzinfo aufmachen!
 
 ### Dezember 2017
 
-- [x] [Practical RxJS](./2017-12-12_practical_rxjs.pdf) (von [@PatrickLehner](https://github.com/PatrickLehner) und [@apfohl](https://github.com/apfohl))
+- [x] [Practical RxJS](./2017-12-12_practical_rxjs.pdf) und [Beispiel-Code](https://github.com/XITASO/practical-rxjs) (von [@PatrickLehner](https://github.com/PatrickLehner) und [@apfohl](https://github.com/apfohl))
 
 ### November 2017
 
