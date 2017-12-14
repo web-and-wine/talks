@@ -11,6 +11,10 @@ Bitte einfach ein Issue mit Talk-Titel und Kurzinfo aufmachen!
 
 ## Die Slides der bisherigen Meetup-Talks
 
+### Dezember 2017
+
+- [x] [Practical RxJS](./2017-12-12_practical_rxjs.pdf) (von [@PatrickLehner](https://github.com/PatrickLehner) und [@apfohl](https://github.com/apfohl))
+
 ### November 2017
 
 - [x] [War for talents - Employer Branding in der digitalen Welt](https://docs.google.com/presentation/d/1QttK7DhtA4ccaprqgWitRifP886Jhbw1T-wa_Tz2RTI/edit?usp=sharing) (von [@VANtasie](https://github.com/VANtasie))
