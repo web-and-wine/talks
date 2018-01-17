@@ -13,6 +13,7 @@ Bitte einfach ein Issue mit Talk-Titel und Kurzinfo aufmachen!
 
 ### Dezember 2017
 
+- [x] [Fish Shell](./Fish-Shell-pichfl.pdf) von [@pichfl](https://github.com/pichfl)
 - [x] [Practical RxJS](./2017-12-12_practical_rxjs.pdf) und [Beispiel-Code](https://github.com/XITASO/practical-rxjs) (von [@PatrickLehner](https://github.com/PatrickLehner) und [@apfohl](https://github.com/apfohl))
 - [x] [Maschinelles Lernen - Einführung](./2017-12-Maschinelles-Lernen-Einführung.pdf) (von [@antonwinschel](https://github.com/antonwinschel))
 
