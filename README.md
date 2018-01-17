@@ -11,6 +11,12 @@ Bitte einfach ein Issue mit Talk-Titel und Kurzinfo aufmachen!
 
 ## Die Slides der bisherigen Meetup-Talks
 
+### Januar 2018
+
+- [x] [Everything is Prettier](./Everything-is-Prettier-pichfl.pdf) (von [@pichfl](https://github.com/pichfl))
+
+-----
+
 ### Dezember 2017
 
 - [x] [Practical RxJS](./2017-12-12_practical_rxjs.pdf) und [Beispiel-Code](https://github.com/XITASO/practical-rxjs) (von [@PatrickLehner](https://github.com/PatrickLehner) und [@apfohl](https://github.com/apfohl))
@@ -22,9 +28,7 @@ Bitte einfach ein Issue mit Talk-Titel und Kurzinfo aufmachen!
 - [x] [Entwicklung mit der Hololens](https://github.com/web-and-wine/talks/files/1474004/hololens_presentation.pdf) (von [@armingratzl](https://github.com/armingratzl))
 
 ### Oktober 2017
-
 - [x] [Hands on Offline First! with Hoodie](http://peerigon.github.io/talks/2017-10-17-web-and-wine-offline-first-with-hoodie/dist/) (von [@flootr](https://github.com/flootr))
-
 
 ### Juli 2017
 - [x] [Are these my assets?](./2017-07-SRI.md) (von [@theWeird](https://github.com/theWeird))
@@ -55,7 +59,7 @@ Bitte einfach ein Issue mit Talk-Titel und Kurzinfo aufmachen!
 - [x] [JavaScript on Hardware](http://peerigon.github.io/talks/2017-02-07-web-and-wine-js-on-hardware/) (von [@meaku](https://github.com/meaku))
 - [x] [The Case for CSS Modules](http://peerigon.github.io/talks/2017-02-07-webandwine-the-case-for-css-modules) (von [@flootr](https://github.com/flootr))
 
-------
+-----
 
 ### Dezember 2016
 
@@ -104,7 +108,6 @@ Bitte einfach ein Issue mit Talk-Titel und Kurzinfo aufmachen!
 - [x] [Advanced frontend optimization (with webpack)](http://sokra.github.io/slides/frontend-optimize) (von [@sokra](https://github.com/sokra))
 
 [Notes zu den Vorträgen](https://github.com/karlhorky/talk-notes/blob/master/2015-12-15-web-and-wine.md ) (von [@karlhorky](https://github.com/karlhorky))
-
 
 ### November 2015
 - [x] [Amazon AWS](http://de.slideshare.net/EkkardSchnedermann/cloud-at-massive-scale-and-incredible-speed-ekkard-schnedermann-berichtet-von-der-aws-reinvent-2015) (von Ekkard Schnedermann)
