@@ -2,9 +2,7 @@
 
 - Speaker/in: Vor- & Nachname
 - Wunschtermin: mmmm YYYY
-- Dauer: 
-	- [x] Regulär (30min)
-	- [ ] Lightning (15min)
+- Dauer: Regulär (30min) / Lightning (15min)
 
 ### Kurzbeschreibung
 
