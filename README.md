@@ -11,6 +11,10 @@ Bitte einfach ein Issue mit Talk-Titel und Kurzinfo aufmachen!
 
 ## Die Slides der bisherigen Meetup-Talks
 
+### März 2018
+
+- [x] [GraphQL](./2018-03-GraphQL.pdf) (von [@lechindianer](https://github.com/lechindianer))
+
 ### Januar 2018
 
 - [x] [Everything is Prettier](./Everything-is-Prettier-pichfl.pdf) (von [@pichfl](https://github.com/pichfl))
