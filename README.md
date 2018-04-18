@@ -11,6 +11,10 @@ Bitte einfach ein Issue mit Talk-Titel und Kurzinfo aufmachen!
 
 ## Die Slides der bisherigen Meetup-Talks
 
+### April 2018
+
+- [x] [Full Stack Rust](./2018-04-Full-Stack-Rust_dunkelstern.pdf) (von [@dunkelstern](https://github.com/dunkelstern))
+
 ### März 2018
 
 - [x] [GraphQL](./2018-03-GraphQL.pdf) (von [@lechindianer](https://github.com/lechindianer))
