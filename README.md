@@ -13,8 +13,11 @@ Bitte einfach ein Issue mit Talk-Titel und Kurzinfo aufmachen!
 
 ### April 2018
 
+
+*   [x] [Full Stack Rust](./2018-04-Full-Stack-Rust_dunkelstern.pdf) (von [@dunkelstern](https://github.com/dunkelstern))
 *   [x] [Design for Open Source](./Design-for-Open-Source-pichfl.pdf) (von [@pichfl](https://github.com/pichfl))
 *   [x] [Feel the Glimmer](https://speakerdeck.com/marcoow/feel-the-glimmer-parisjs) (von [@marcoow](https://github.com/marcoow))
+
 
 ### März 2018
 
