@@ -16,6 +16,17 @@ Bitte einfach ein Issue mit Talk-Titel und Kurzinfo aufmachen!
 -   [ ] [The N-Body Problem](#) (von [@winsmith](https://github.com/winsmith))
 -   [x] [Tools for Designers](./Tools-for-Designers-pichfl.pdf) (von [@pichfl](https://github.com/pichfl))
 
+### Juli 2018
+
+-   [ ] The Life of a JavaScript Feature in V8 ft. TypedArrays (von [@psmarshall](https://github.com/psmarshall))
+-   [ ] The bumpy road to Universal JavaScript (von [@jhnns](https://github.com/jhnns))
+
+### Mai 2018
+
+-   [ ] Perfektionismus - Gesund VS Ungesund (von [@blacklist](https://github.com/blacklist))
+-   [ ] Speed by Design (von Fabian Ziegler)
+-   [ ] May I have your attention, please? Let's talk about Humane Tech Design. (von [@OhKrapp](https://github.com/OhKrapp))
+
 ### April 2018
 
 -   [x] [Full Stack Rust](./2018-04-Full-Stack-Rust_dunkelstern.pdf) (von [@dunkelstern](https://github.com/dunkelstern))
@@ -25,10 +36,17 @@ Bitte einfach ein Issue mit Talk-Titel und Kurzinfo aufmachen!
 ### März 2018
 
 -   [x] [GraphQL](./2018-03-GraphQL.pdf) (von [@lechindianer](https://github.com/lechindianer))
+-   [ ] Djangular: Kaltes Bier und heiße MVPs (von Sebastian Schwarz)
+
+### Februar 2018
+
+- Barcamp Sessions - leider keine Folien
 
 ### Januar 2018
 
 -   [x] [Everything is Prettier](./Everything-is-Prettier-pichfl.pdf) (von [@pichfl](https://github.com/pichfl))
+-   [ ] WebSecurity - Welche Möglichkeiten gibt es was zu sichern? (von [@pRiVi](https://github.com/pRiVi))
+-   [ ] How to write a Codemod (with jscodeshift/ astexplorer) (von [@Kuirak](https://github.com/Kuirak))
 
 ---
 
