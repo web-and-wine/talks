@@ -36,7 +36,7 @@ Bitte einfach ein Issue mit Talk-Titel und Kurzinfo aufmachen!
 ### März 2018
 
 -   [x] [GraphQL](./2018-03-GraphQL.pdf) (von [@lechindianer](https://github.com/lechindianer))
--   [ ] Djangular: Kaltes Bier und heiße MVPs (von Sebastian Schwarz)
+-   [ ] Djangular: Kaltes Bier und heiße MVPs (von [@se-schwarz](https://github.com/se-schwarz))
 
 ### Februar 2018
 
