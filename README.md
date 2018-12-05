@@ -11,6 +11,17 @@ Bitte einfach ein Issue mit Talk-Titel und Kurzinfo aufmachen!
 
 ## Die Slides der bisherigen Meetup-Talks
 
+### Dezember 2018
+
+-   [x] [Readable Code - A neuroeconomic approach](./2018_Clean_Code.pdf) (von [@se-schwarz](https://github.com/se-schwarz))
+-   [ ] React what?! A peek into React Native (von [@irenama](https://github.com/irenama))
+
+### November 2018
+
+-   [ ] [Conjuring Demons: The Power of the True Name](#) (von [@programming-wolf](https://github.com/programming-wolf))
+-   [ ] [Hack your communication productivity!](#) (von Jonas Riegel)
+-   [ ] [Holding on to your performance promises](#) (von [@MayaLekova](https://github.com/MayaLekova))
+
 ### Oktober 2018
 
 -   [ ] [The N-Body Problem](#) (von [@winsmith](https://github.com/winsmith))
