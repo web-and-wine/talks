@@ -11,6 +11,14 @@ Bitte einfach ein Issue mit Talk-Titel und Kurzinfo aufmachen!
 
 ## Die Slides der bisherigen Meetup-Talks
 
+### Januar 2019
+
+- [ ] [Async Test Data Builders](./2019-01-17_Async_Test_Data_Builders.pdf) (von [@nevik](https://github.com/nevik))
+- [ ] Usability Guidelines (von Sina Busch)
+- [ ] IPv6 Grundlagen (von Andreas Herz)
+
+---
+
 ### Dezember 2018
 
 -   [x] [Readable Code - A neuroeconomic approach](./2018_Clean_Code.pdf) (von [@se-schwarz](https://github.com/se-schwarz))
