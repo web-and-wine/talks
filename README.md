@@ -42,7 +42,7 @@ Bitte einfach ein Issue mit Talk-Titel und Kurzinfo aufmachen!
 
 ### Mai 2018
 
--   [ ] Perfektionismus - Gesund VS Ungesund (von [@blacklist](https://github.com/blacklist))
+-   [x] [Perfektionismus - Gesund VS Ungesund](./Perfectionismus.pdf) (von [@blacklist](https://github.com/blacklist))
 -   [ ] Speed by Design (von Fabian Ziegler)
 -   [ ] May I have your attention, please? Let's talk about Humane Tech Design. (von [@OhKrapp](https://github.com/OhKrapp))
 
