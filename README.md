@@ -44,7 +44,7 @@ Bitte einfach ein Issue mit Talk-Titel und Kurzinfo aufmachen!
 
 -   [x] [Perfektionismus - Gesund VS Ungesund](./Perfectionismus.pdf) (von [@blacklist](https://github.com/blacklist))
 -   [ ] Speed by Design (von Fabian Ziegler)
--   [ ] May I have your attention, please? Let's talk about Humane Tech Design. (von [@OhKrapp](https://github.com/OhKrapp))
+-   [ ] [May I have your attention, please? Let's talk about Humane Tech Design.](./HumaneTechDesign.pdf) (von [@OhKrapp](https://github.com/OhKrapp))
 
 ### April 2018
 
