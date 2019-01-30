@@ -13,7 +13,7 @@ Bitte einfach ein Issue mit Talk-Titel und Kurzinfo aufmachen!
 
 ### Januar 2019
 
-- [ ] [Async Test Data Builders](./2019-01-17_Async_Test_Data_Builders.pdf) (von [@nevik](https://github.com/nevik))
+- [x] [Async Test Data Builders](./2019-01-17_Async_Test_Data_Builders.pdf) (von [@nevik](https://github.com/nevik))
 - [ ] [Usability Guidelines](#) (von Sina Busch)
 - [ ] [IPv6 Grundlagen](#) (von Andreas Herz)
 
