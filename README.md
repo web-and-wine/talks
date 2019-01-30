@@ -14,8 +14,8 @@ Bitte einfach ein Issue mit Talk-Titel und Kurzinfo aufmachen!
 ### Januar 2019
 
 - [ ] [Async Test Data Builders](./2019-01-17_Async_Test_Data_Builders.pdf) (von [@nevik](https://github.com/nevik))
-- [ ] Usability Guidelines (von Sina Busch)
-- [ ] IPv6 Grundlagen (von Andreas Herz)
+- [ ] [Usability Guidelines](#) (von Sina Busch)
+- [ ] [IPv6 Grundlagen](#) (von Andreas Herz)
 
 ---
 
@@ -38,13 +38,13 @@ Bitte einfach ein Issue mit Talk-Titel und Kurzinfo aufmachen!
 ### Juli 2018
 
 -   [ ] The Life of a JavaScript Feature in V8 ft. TypedArrays (von [@psmarshall](https://github.com/psmarshall))
--   [ ] The bumpy road to Universal JavaScript (von [@jhnns](https://github.com/jhnns))
+-   [ ] [The bumpy road to Universal JavaScript](#) (von [@jhnns](https://github.com/jhnns))
 
 ### Mai 2018
 
 -   [x] [Perfektionismus - Gesund VS Ungesund](./Perfectionismus.pdf) (von [@blacklist](https://github.com/blacklist))
 -   [ ] Speed by Design (von Fabian Ziegler)
--   [ ] [May I have your attention, please? Let's talk about Humane Tech Design.](./HumaneTechDesign.pdf) (von [@OhKrapp](https://github.com/OhKrapp))
+-   [x] [May I have your attention, please? Let's talk about Humane Tech Design.](./HumaneTechDesign.pdf) (von [@OhKrapp](https://github.com/OhKrapp))
 
 ### April 2018
 
