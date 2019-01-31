@@ -38,7 +38,7 @@ Bitte einfach ein Issue mit Talk-Titel und Kurzinfo aufmachen!
 ### Juli 2018
 
 -   [ ] The Life of a JavaScript Feature in V8 ft. TypedArrays (von [@psmarshall](https://github.com/psmarshall))
--   [ ] [The bumpy road to Universal JavaScript](#) (von [@jhnns](https://github.com/jhnns))
+-   [x] [The bumpy road to Universal JavaScript](https://peerigon.github.io/talks/2018-05-25-you-gotta-love-frontend-bumpy-road-universal-javascript/#1) (von [@jhnns](https://github.com/jhnns))
 
 ### Mai 2018
 
