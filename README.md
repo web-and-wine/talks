@@ -27,7 +27,7 @@ Bitte einfach ein Issue mit Talk-Titel und Kurzinfo aufmachen!
 ### November 2018
 
 -   [ ] [Conjuring Demons: The Power of the True Name](#) (von [@programming-wolf](https://github.com/programming-wolf))
--   [ ] [Hack your communication productivity!](#) (von Jonas Riegel)
+-   [x] [Hack your communication productivity!](./HackYourCommunicationProductivity!.pdf) (von Jonas Riegel)
 -   [ ] [Holding on to your performance promises](#) (von [@MayaLekova](https://github.com/MayaLekova))
 
 ### Oktober 2018
