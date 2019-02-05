@@ -32,7 +32,7 @@ Bitte einfach ein Issue mit Talk-Titel und Kurzinfo aufmachen!
 
 ### Oktober 2018
 
--   [ ] [The N-Body Problem](#) (von [@winsmith](https://github.com/winsmith))
+-   [x] [The N-Body Problem](https://youtu.be/09iTidqkriw) (von [@winsmith](https://github.com/winsmith))
 -   [x] [Tools for Designers](./Tools-for-Designers-pichfl.pdf) (von [@pichfl](https://github.com/pichfl))
 
 ### Juli 2018
