@@ -14,7 +14,7 @@ Bitte einfach ein Issue mit Talk-Titel und Kurzinfo aufmachen!
 ### Januar 2019
 
 - [x] [Async Test Data Builders](./2019-01-17_Async_Test_Data_Builders.pdf) (von [@nevik](https://github.com/nevik))
-- [ ] [Usability Guidelines](#) (von Sina Busch)
+- [x] [Usability Guidelines](./techtalk_usability.pdf) (von [@m0ndra](https://github.com/m0ndra)
 - [x] [IPv6 Grundlagen](./IPv6.pdf) (von Andreas Herz)
 
 ---
