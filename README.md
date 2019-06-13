@@ -11,6 +11,12 @@ Bitte einfach ein Issue mit Talk-Titel und Kurzinfo aufmachen!
 
 ## Die Slides der bisherigen Meetup-Talks
 
+### Juni 2019
+
+- [x] [Everytime we touch – I get this feeling](https://timidak.github.io/everytime-we-touch/) (von [@timidak](https://github.com/timidak))
+- [ ] [capture the web: Exploiting and securing web applications](#) (von [Maximilian Ammann](#))
+- [ ] [Building your own task runner](#) (von [David Danier](#))
+
 ### Januar 2019
 
 - [x] [Async Test Data Builders](./2019-01-17_Async_Test_Data_Builders.pdf) (von [@nevik](https://github.com/nevik))
