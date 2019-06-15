@@ -17,6 +17,10 @@ Bitte einfach ein Issue mit Talk-Titel und Kurzinfo aufmachen!
 -   [ ] [capture the web: Exploiting and securing web applications](#) (von [Maximilian Ammann](#))
 -   [ ] [Building your own task runner](#) (von [David Danier](#))
 
+### Mai 2019
+
+-   [x] [Giving a talk](./Giving-a-talk-pichfl.pdf) (von [@pichfl](https://github.com/pichfl))
+
 ### Januar 2019
 
 -   [x] [Async Test Data Builders](./2019-01-17_Async_Test_Data_Builders.pdf) (von [@nevik](https://github.com/nevik))
