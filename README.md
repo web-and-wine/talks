@@ -14,7 +14,7 @@ Bitte einfach ein Issue mit Talk-Titel und Kurzinfo aufmachen!
 ### Juni 2019
 
 - [x] [Everytime we touch – I get this feeling](https://timidak.github.io/everytime-we-touch/) (von [@timidak](https://github.com/timidak))
-- [x] [capture the web: Exploiting and securing web applications](https://maxammann.github.io/talk-capture-the-web) (von [Maximilian Ammann](https://maxammann.github.io))
+- [x] [capture the web: Exploiting and securing web applications](https://maxammann.github.io/talk-capture-the-web) (von [Maximilian Ammann](https://github.com/maxammann/))
 - [ ] [Building your own task runner](#) (von [David Danier](#))
 
 ### Januar 2019
