@@ -19,7 +19,9 @@ Bitte einfach ein Issue mit Talk-Titel und Kurzinfo aufmachen!
 
 ### Mai 2019
 
+-   [ ] LEAN UX (Florian Kratzer)
 -   [x] [Giving a talk](./Giving-a-talk-pichfl.pdf) (von [@pichfl](https://github.com/pichfl))
+-   [ ] Stress - der langsame Killer (Sebastian Huber)
 
 ### Januar 2019
 
