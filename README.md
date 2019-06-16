@@ -13,15 +13,21 @@ Bitte einfach ein Issue mit Talk-Titel und Kurzinfo aufmachen!
 
 ### Juni 2019
 
-- [x] [Everytime we touch – I get this feeling](https://timidak.github.io/everytime-we-touch/) (von [@timidak](https://github.com/timidak))
-- [x] [capture the web: Exploiting and securing web applications](https://maxammann.github.io/talk-capture-the-web) (von [Maximilian Ammann](https://github.com/maxammann/))
-- [ ] [Building your own task runner](#) (von [David Danier](#))
+-   [x] [Everytime we touch – I get this feeling](https://timidak.github.io/everytime-we-touch/) (von [@timidak](https://github.com/timidak))
+-   [x] [capture the web: Exploiting and securing web applications](https://maxammann.github.io/talk-capture-the-web) (von [Maximilian Ammann](https://github.com/maxammann/))
+-   [ ] [Building your own task runner](#) (von [David Danier](#))
+
+### Mai 2019
+
+-   [ ] LEAN UX (Florian Kratzer)
+-   [x] [Giving a talk](./Giving-a-talk-pichfl.pdf) (von [@pichfl](https://github.com/pichfl))
+-   [ ] Stress - der langsame Killer (Sebastian Huber)
 
 ### Januar 2019
 
-- [x] [Async Test Data Builders](./2019-01-17_Async_Test_Data_Builders.pdf) (von [@nevik](https://github.com/nevik))
-- [x] [Usability Guidelines](./techtalk_usability.pdf) (von [@m0ndra](https://github.com/m0ndra))
-- [x] [IPv6 Grundlagen](./IPv6.pdf) (von Andreas Herz)
+-   [x] [Async Test Data Builders](./2019-01-17_Async_Test_Data_Builders.pdf) (von [@nevik](https://github.com/nevik))
+-   [x] [Usability Guidelines](./techtalk_usability.pdf) (von [@m0ndra](https://github.com/m0ndra))
+-   [x] [IPv6 Grundlagen](./IPv6.pdf) (von Andreas Herz)
 
 ---
 
@@ -65,7 +71,7 @@ Bitte einfach ein Issue mit Talk-Titel und Kurzinfo aufmachen!
 
 ### Februar 2018
 
-- Barcamp Sessions - leider keine Folien
+-   Barcamp Sessions - leider keine Folien
 
 ### Januar 2018
 
