@@ -11,6 +11,11 @@ Bitte einfach ein Issue mit Talk-Titel und Kurzinfo aufmachen!
 
 ## Die Slides der bisherigen Meetup-Talks
 
+### Juli 2019
+
+-   [x] [Angular from a different angle](https://github.com/web-and-wine/talks/files/3425568/angular-from-different-angle.pdf) (von [@se-schwarz](https://github.com/se-schwarz))
+-   [] [Service Design Thinking](#) (von [@Johnthehuman](https://github.com/Johnthehuman/))
+
 ### Juni 2019
 
 -   [x] [Everytime we touch – I get this feeling](https://timidak.github.io/everytime-we-touch/) (von [@timidak](https://github.com/timidak))
