@@ -28,6 +28,16 @@ Bitte einfach ein Issue mit Talk-Titel und Kurzinfo aufmachen!
 -   [x] [Giving a talk](./Giving-a-talk-pichfl.pdf) (von [@pichfl](https://github.com/pichfl))
 -   [ ] Stress - der langsame Killer (Sebastian Huber)
 
+### März 2019
+
+-   [ ] [X% of your R&D is waste! X≥50?](#) (von [@e-wuc](https://github.com/e-wuc))
+-   [ ] [Adaptive images](#) (von [@mmunz](https://github.com/mmunz))
+
+### Februar 2019
+
+-   [ ] [State of Silicon Valley](#) (von Fabian Ziegler)
+-   [ ] [The future of JavaScript bundlers](#) (von [@jhnns](https://github.com/jhnns))
+
 ### Januar 2019
 
 -   [x] [Async Test Data Builders](./2019-01-17_Async_Test_Data_Builders.pdf) (von [@nevik](https://github.com/nevik))
