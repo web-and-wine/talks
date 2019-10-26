@@ -1,0 +1,1 @@
+Die Präsentationsfolien des Lightnig Talks "Apache Kafka in 10 Minutes" von Michael Seifert am 15.10.2019 sind auf [www.digitalernachschub.de](https://www.digitalernachschub.de/talks/2019-10-web-and-wine/) zu finden.
