@@ -11,6 +11,13 @@ Bitte einfach ein Issue mit Talk-Titel und Kurzinfo aufmachen!
 
 ## Die Slides der bisherigen Meetup-Talks
 
+### Januar 2020
+
+-   [ ] Must have Web-App Security (Thomas Weyer)
+-   [x] [Serverless static websites by example](./Serverless-Static-Websites-pichfl.pdf) (von [Florian Pichler](https://github.com/pichfl))
+
+---
+
 ### Juli 2019
 
 -   [x] [Angular from a different angle](https://github.com/web-and-wine/talks/files/3425568/angular-from-different-angle.pdf) (von [@se-schwarz](https://github.com/se-schwarz))
