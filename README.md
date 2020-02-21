@@ -11,6 +11,14 @@ Bitte einfach ein Issue mit Talk-Titel und Kurzinfo aufmachen!
 
 ## Die Slides der bisherigen Meetup-Talks
 
+
+### Februar 2020
+
+-   [ ] 26 Buchstaben - das mächtigste Tool, das wir haben? Ansprache, Labeling und Wording im Web (Hendrik Cammann)
+-   [x] [Serverless static websites by example](https://peerigon.github.io/talks/2020-02-18-webandwine-buttons/
+) (von [Moritz Jacobs](https://github.com/moritzjacobs))
+-   [ ] Rewrite the Fuckup (Fabian Ziegler)
+
 ### Januar 2020
 
 -   [ ] Must have Web-App Security (Thomas Weyer)
