@@ -15,7 +15,7 @@ Bitte einfach ein Issue mit Talk-Titel und Kurzinfo aufmachen!
 ### Februar 2020
 
 -   [x] [26 Buchstaben - das mächtigste Tool, das wir haben? Ansprache, Labeling und Wording im Web](https://github.com/web-and-wine/talks/files/4243540/26_Buchstaben_WebAndWine_Hendrik_Cammann.pdf) (von [Hendrik Cammann](https://github.com/hcammann))
--   [x] [Serverless static websites by example](https://peerigon.github.io/talks/2020-02-18-webandwine-buttons/
+-   [x] [It started with a button (now we’re here)](https://peerigon.github.io/talks/2020-02-18-webandwine-buttons/
 ) (von [Moritz Jacobs](https://github.com/moritzjacobs))
 -   [ ] Rewrite the Fuckup (Fabian Ziegler)
 
