@@ -11,6 +11,10 @@ Bitte einfach ein Issue mit Talk-Titel und Kurzinfo aufmachen!
 
 ## Die Slides der bisherigen Meetup-Talks
 
+### Oktober 2020
+
+- [x] [TOR](https://maxammann.github.io/tor-presentation/#/3/0/0)
+- [x] [Next-Level SVGs](https://github.com/web-and-wine/talks/files/5387714/Next-Level.SVGs.pdf)
 
 ### Februar 2020
 
