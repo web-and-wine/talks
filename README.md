@@ -11,6 +11,11 @@ Bitte einfach ein Issue mit Talk-Titel und Kurzinfo aufmachen!
 
 ## Die Slides der bisherigen Meetup-Talks
 
+### November 2020
+
+- [x] [DevUX - Aufbau einer gemeinsamen Sprache zwischen Entwicklung und Design](https://github.com/web-and-wine/talks/files/5569210/webandwine_sina_axel.pdf)
+- [ ] Ember.js Octane - A fresh look at the framework for ambitious web applications 
+
 ### Oktober 2020
 
 - [x] [TOR](https://maxammann.github.io/tor-presentation/#/3/0/0)
