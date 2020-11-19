@@ -14,7 +14,7 @@ Bitte einfach ein Issue mit Talk-Titel und Kurzinfo aufmachen!
 ### November 2020
 
 - [x] [DevUX - Aufbau einer gemeinsamen Sprache zwischen Entwicklung und Design](https://github.com/web-and-wine/talks/files/5569210/webandwine_sina_axel.pdf)
-- [ ] Ember.js Octane - A fresh look at the framework for ambitious web applications 
+- [x] [Ember.js Octane - A fresh look at the framework for ambitious web applications](https://github.com/web-and-wine/talks/files/5569646/Re.Ember.js.Octane.-.A.fresh.look.at.the.framework.for.ambitious.web.applications.pdf)
 
 ### Oktober 2020
 
