@@ -11,6 +11,14 @@ Bitte einfach ein Issue mit Talk-Titel und Kurzinfo aufmachen!
 
 ## Die Slides der bisherigen Meetup-Talks
 
+### Februar 2021
+
+- [Gute Analytics und gute Privatsphäre](https://github.com/web-and-wine/talks/files/6005135/Analytics.and.Privacy.Web.and.Wine.Feb.2021.pdf)
+
+### Januar 2020
+
+### Dezember 2020
+
 ### November 2020
 
 - [x] [DevUX - Aufbau einer gemeinsamen Sprache zwischen Entwicklung und Design](https://github.com/web-and-wine/talks/files/5569210/webandwine_sina_axel.pdf)
