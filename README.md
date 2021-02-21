@@ -17,7 +17,12 @@ Bitte einfach ein Issue mit Talk-Titel und Kurzinfo aufmachen!
 
 ### Januar 2020
 
+- [Docker und seine Buildprobleme](https://raw.githubusercontent.com/web-and-wine/talks/master/Docker%20composability%20and%20Gentoo%20instrumenting.pdf)
+-  Get Funky - Aspects of functional programming in C#
+
 ### Dezember 2020
+
+- ??
 
 ### November 2020
 
