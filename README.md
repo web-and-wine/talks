@@ -51,7 +51,7 @@ Bitte einfach ein Issue mit Talk-Titel und Kurzinfo aufmachen!
 ### Dezember 2019
 
 -   [ ] Nein zu Spaghetti: Mit Feature-Flags richtig umgehen (Florian Häglsperger)
--   [ ] Continuous Delivery: Myths and Realities (Mario Fernandez)
+-   [x] [Continuous Delivery: Myths and Realities (Mario Fernandez)](https://raw.githubusercontent.com/sirech/talks/master/2019-10-continuous_delivery_myths_and_realities.pdf)
 
 ### Oktober 2019
 
