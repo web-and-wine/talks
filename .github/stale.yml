@@ -2,7 +2,7 @@
 daysUntilStale: 90 # Stale after 3 months
 daysUntilClose: 190 # Close after a year
 exemptLabels: []
-staleLabel: style
+staleLabel: stale
 markComment: >
   This talk proposal has been automatically marked as stale because it has not had
   recent activity. It will be closed after 6 months if no further activity occurs. If you still plan
