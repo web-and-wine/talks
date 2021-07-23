@@ -11,11 +11,19 @@ Bitte einfach ein Issue mit Talk-Titel und Kurzinfo aufmachen!
 
 ## Die Slides der bisherigen Meetup-Talks
 
+### Juni 2021
+
+- [Let's have some fun with the TypeScript type system](https://slides.com/marcoschumacher/typescript-type-system) (von [@schummar](https://github.com/schummar))
+
+### Mai 2021
+
+- Is server-less more? - Lighting Talk über Serverless Architekturen (von [@timidak](https://github.com/timidak))
+
 ### Februar 2021
 
-- [Gute Analytics und gute Privatsphäre](https://github.com/web-and-wine/talks/files/6005135/Analytics.and.Privacy.Web.and.Wine.Feb.2021.pdf)
+- [Gute Analytics und gute Privatsphäre](https://github.com/web-and-wine/talks/files/6005135/Analytics.and.Privacy.Web.and.Wine.Feb.2021.pdf) (von [@winsmith](https://github.com/winsmith))
 
-### Januar 2020
+### Januar 2021
 
 - [Docker und seine Buildprobleme](https://raw.githubusercontent.com/web-and-wine/talks/master/Docker%20composability%20and%20Gentoo%20instrumenting.pdf)
 - [Get Funky - Aspects of functional programming in C#](https://github.com/web-and-wine/talks/files/6020181/C.-.Get.Funky.pptx)
