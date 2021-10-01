@@ -11,6 +11,12 @@ Bitte einfach ein Issue mit Talk-Titel und Kurzinfo aufmachen!
 
 ## Die Slides der bisherigen Meetup-Talks
 
+### September 2021
+
+- [Responsibility Process](https://github.com/web-and-wine/talks/files/7268112/WebAndWineResponsibilityProcess.pdf)
+- [Let's have some fun with the TypeScript type system](https://slides.com/marcoschumacher/typescript-type-system) (von [@schummar](https://github.com/schummar))
+
+
 ### Juni 2021
 
 - [Let's have some fun with the TypeScript type system](https://slides.com/marcoschumacher/typescript-type-system) (von [@schummar](https://github.com/schummar))
