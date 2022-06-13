@@ -11,6 +11,10 @@ Bitte einfach ein Issue mit Talk-Titel und Kurzinfo aufmachen!
 
 ## Die Slides der bisherigen Meetup-Talks
 
+### Mai 2022
+
+- [Data bias: the flaw in designing for defaults](https://github.com/web-and-wine/talks/files/8888432/Data-bias-design-4-defaults.pdf)
+
 ### September 2021
 
 - [Responsibility Process](https://github.com/web-and-wine/talks/files/7268112/WebAndWineResponsibilityProcess.pdf)
