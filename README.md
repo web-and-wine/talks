@@ -11,6 +11,11 @@ Bitte einfach ein Issue mit Talk-Titel und Kurzinfo aufmachen!
 
 ## Die Slides der bisherigen Meetup-Talks
 
+### Juni 2022
+
+- [World in Vectors](https://github.com/web-and-wine/talks/raw/master/2022-06-30-Web-and-Wine-World-in-Vectors.pdf)
+- [Let's build Kubernetes](https://github.com/web-and-wine/talks/files/9178694/Let.s.build.Kubernetes.pdf)
+
 ### Mai 2022
 
 - [Data bias: the flaw in designing for defaults](https://github.com/web-and-wine/talks/files/8888432/Data-bias-design-4-defaults.pdf)
