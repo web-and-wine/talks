@@ -11,6 +11,9 @@ Bitte einfach ein Issue mit Talk-Titel und Kurzinfo aufmachen!
 
 ## Die Slides der bisherigen Meetup-Talks
 
+### November 2022
+- [Einführung in Property-Based Testing](https://github.com/web-and-wine/talks/raw/master/2022-11-24-einführung-in-property-based-testing.pdf)
+
 ### October 2022
 - [WTF is IoT: “Abtauchen ins Internet of Things”](https://github.com/web-and-wine/talks/raw/master/20221103_web&wine_WTFisIoT_EXTERN.pdf)
 - Light vs. Dark. Same Methodes, different Feelings
