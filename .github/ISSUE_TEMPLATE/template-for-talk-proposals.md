@@ -10,13 +10,14 @@ assignees: ''
 # Titel: [e.g. Introduction to JavaScript]
 
 - Speaker: [e.g. Max Mustermann]
-- Preferred date: [e.g. February]
+- Affiliation: [Company you work at or None (optional)]
+- Preferred month: [e.g. February]
 - Duration: regular (30min) / lightning (10-15min)
 - Language: [e.g. German]
 
 ### Short description
 
-Describe your talk in five or less sentences.
+Describe your talk in five or fewer sentences.
 
 ### Audience
 
