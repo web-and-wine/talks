@@ -11,6 +11,9 @@ Bitte einfach ein Issue mit Talk-Titel und Kurzinfo aufmachen!
 
 ## Die Slides der bisherigen Meetup-Talks
 
+### Februar 2023
+- [aeiou asdf and crie](https://github.com/web-and-wine/talks/raw/master/2023-02-23-aeiou-asdf-and-crie.pdf)
+
 ### November 2022
 - [Einführung in Property-Based Testing](https://github.com/web-and-wine/talks/raw/master/2022-11-24-einführung-in-property-based-testing.pdf)
 
