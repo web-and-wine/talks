@@ -11,7 +11,7 @@ Bitte einfach ein Issue mit Talk-Titel und Kurzinfo aufmachen!
 
 ## Die Slides der bisherigen Meetup-Talks
 
-### June 2023
+### Juni 2023
 - [Docker exec without Docker](https://github.com/web-and-wine/talks/raw/master/Docker_exec_without_Docker.pdf)
 
 ### Februar 2023
