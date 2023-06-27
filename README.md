@@ -11,6 +11,9 @@ Bitte einfach ein Issue mit Talk-Titel und Kurzinfo aufmachen!
 
 ## Die Slides der bisherigen Meetup-Talks
 
+### Juni 2023
+- [Docker exec without Docker](https://github.com/web-and-wine/talks/raw/master/Docker_exec_without_Docker.pdf)
+
 ### Februar 2023
 - [aeiou asdf and crie](https://github.com/web-and-wine/talks/raw/master/2023-02-23-aeiou-asdf-and-crie.pdf)
 
