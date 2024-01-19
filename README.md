@@ -11,6 +11,9 @@ Bitte einfach ein Issue mit Talk-Titel und Kurzinfo aufmachen!
 
 ## Die Slides der bisherigen Meetup-Talks
 
+### Januar 2024
+- [How to flip an audio bit](https://talk.bitflipper.leimstaedtner.it/)
+
 ### Juni 2023
 - [Docker exec without Docker](https://github.com/web-and-wine/talks/raw/master/Docker_exec_without_Docker.pdf)
 
