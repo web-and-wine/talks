@@ -7,7 +7,7 @@ assignees: ''
 
 ---
 
-# Titel: [e.g. Introduction to JavaScript]
+# Title: [e.g. Introduction to JavaScript]
 
 - Speaker: [e.g. Max Mustermann]
 - Affiliation: [Company you work at or None (optional)]
