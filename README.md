@@ -14,6 +14,9 @@ Bitte einfach ein Issue mit Talk-Titel und Kurzinfo aufmachen!
 ### Januar 2024
 - [How to flip an audio bit](https://talk.bitflipper.leimstaedtner.it/)
 
+### October 2023
+- [Three ways to open a GitHub issue for your next talk](https://github.com/web-and-wine/talks/raw/master/three_ways_to_open_a_github_issue.pdf) (von [@timidak](https://github.com/timidak))
+
 ### Juni 2023
 - [Docker exec without Docker](https://github.com/web-and-wine/talks/raw/master/Docker_exec_without_Docker.pdf)
 
