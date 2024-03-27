@@ -11,6 +11,9 @@ Bitte einfach ein Issue mit Talk-Titel und Kurzinfo aufmachen!
 
 ## Die Slides der bisherigen Meetup-Talks
 
+### March 2024
+- [Clean code](https://github.com/web-and-wine/talks/blob/master/2024-03-CleanCode.pdf)
+
 ### Januar 2024
 - [How to flip an audio bit](https://talk.bitflipper.leimstaedtner.it/)
 
