@@ -11,6 +11,11 @@ Bitte einfach ein Issue mit Talk-Titel und Kurzinfo aufmachen!
 
 ## Die Slides der bisherigen Meetup-Talks
 
+### Juli 2024
+
+- [ ] Robotik im Wettkampf (Robert Jeutter)
+- [Have you tried Astro?](http://talks.florianpichler.de/have-you-tried-astro/) (von [Florian Pichler](https://github.com/pichfl))
+
 ### March 2024
 - [Clean code](https://github.com/web-and-wine/talks/blob/master/2024-03-CleanCode.pdf)
 
