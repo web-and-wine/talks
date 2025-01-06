@@ -11,6 +11,8 @@ Bitte einfach ein Issue mit Talk-Titel und Kurzinfo aufmachen!
 
 ## Die Slides der bisherigen Meetup-Talks
 
+### December 2024
+- [ ] [CleonGPT – A ChatGPT Clone](https://github.com/web-and-wine/talks/blob/master/CleonGPT.pdf) (von [Michael Schwarz](https://github.com/schwamic))
 ### Juli 2024
 
 - [ ] Robotik im Wettkampf (Robert Jeutter)
