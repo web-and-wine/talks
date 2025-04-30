@@ -26,7 +26,7 @@ Bitte einfach ein Issue mit Talk-Titel und Kurzinfo aufmachen!
 ### December 2024
 
 - [x] [Ansible - Easy IaC and CI/CD Automation](https://github.com/user-attachments/files/19719182/Web.Wine.Ansible.pdf)
-- [x] [CleonGPT – A ChatGPT Clone](https://github.com/web-and-wine/talks/blob/master/CleonGPT.pdf) (von [Michael Schwarz](https://github.com/schwamic))
+- [x] [CleonGPT – A ChatGPT Clone](https://github.com/web-and-wine/talks/blob/main/CleonGPT.pdf) (von [Michael Schwarz](https://github.com/schwamic))
 - [x] [Introducing auto-reveal](https://talks.florianpichler.de/auto-reveal/) (von [Florian Pichler](https://github.com/pichfl))
 
 ### Juli 2024
@@ -36,7 +36,7 @@ Bitte einfach ein Issue mit Talk-Titel und Kurzinfo aufmachen!
 
 ### March 2024
 
-- [x] [Clean code](https://github.com/web-and-wine/talks/blob/master/2024-03-CleanCode.pdf)
+- [x] [Clean code](https://github.com/web-and-wine/talks/blob/main/2024-03-CleanCode.pdf)
 
 ### Januar 2024
 
@@ -254,9 +254,9 @@ Bitte einfach ein Issue mit Talk-Titel und Kurzinfo aufmachen!
 
 ### April 2017
 
-- [x] [git deployments done right](https://github.com/web-and-wine/talks/blob/master/2017-04%20git%20Deployments%20done%20right.pdf) (von [@ddanier](https://github.com/ddanier/))
+- [x] [git deployments done right](https://github.com/web-and-wine/talks/blob/main/2017-04%20git%20Deployments%20done%20right.pdf) (von [@ddanier](https://github.com/ddanier/))
 - [x] [How I created a desktop app in minutes](./How-I-created-a-desktop-app-in-minutes-pichfl.pdf) (Ember & Electron) (von [Florian Pichler](https://github.com/pichfl))
-- [x] [A skilled kit - Amazon Alexa skill development](https://github.com/KikoSt/talks/blob/master/Alexa.pdf) (von Kiko Starkmann)
+- [x] [A skilled kit - Amazon Alexa skill development](https://github.com/KikoSt/talks/blob/main/Alexa.pdf) (von Kiko Starkmann)
 
 ### März 2017
 
@@ -271,7 +271,7 @@ Bitte einfach ein Issue mit Talk-Titel und Kurzinfo aufmachen!
 
 ### Dezember 2016
 
-- [x] [1-Minuten-Blog mit Hugo](https://github.com/web-and-wine/talks/blob/master//1-Minuten-Blog_mit_Hugo.md) (von [Daniel Straßner](https://github.com/dastrasmue))
+- [x] [1-Minuten-Blog mit Hugo](https://github.com/web-and-wine/talks/blob/main//1-Minuten-Blog_mit_Hugo.md) (von [Daniel Straßner](https://github.com/dastrasmue))
 
 ### November 2016
 
@@ -283,20 +283,20 @@ Bitte einfach ein Issue mit Talk-Titel und Kurzinfo aufmachen!
 
 ### Juni 2016
 
-- [x] [Xamarin - What's new - A report from Evolve 2016](https://github.com/web-and-wine/talks/blob/master/Web&Wine_Xamarin_2016.pdf) (von [@xitasoappdev](https://github.com/xitasoappdev))
+- [x] [Xamarin - What's new - A report from Evolve 2016](https://github.com/web-and-wine/talks/blob/main/Web&Wine_Xamarin_2016.pdf) (von [@xitasoappdev](https://github.com/xitasoappdev))
 - [x] [Dr. Flexbox or how I learned to stop worrying and vertically align the box](http://peerigon.github.io/talks/2016-06-28-webandwine-dr-flexbox) (von [@jhnns](https://github.com/jhnns))
 
 ### Mai 2016
 
 - [x] [Ember.js - An ambitious introduction](http://pichfl.github.io/talks/5-ember-js) (von [@pichfl](https://github.com/pichfl))
-- [x] [Visual storytelling ](https://github.com/web-and-wine/talks/blob/master/Visual-Storytelling_WebWine.pdf) (von [@LisaBorg](https://github.com/LisaBorg/))
+- [x] [Visual storytelling ](https://github.com/web-and-wine/talks/blob/main/Visual-Storytelling_WebWine.pdf) (von [@LisaBorg](https://github.com/LisaBorg/))
 - [x] [TypeScript - A superset of JavaScript with typing.](http://www.noxan.net/talks/#/) (von [@noxan](github.com/noxan))
 
 ### April 2016
 
-- [x] [Promises of a safer web - WebCrypto in 2016](https://github.com/web-and-wine/talks/blob/master/WebCrypto2016.pdf) (von [@colbri77](https://github.com/colbri77/))
+- [x] [Promises of a safer web - WebCrypto in 2016](https://github.com/web-and-wine/talks/blob/main/WebCrypto2016.pdf) (von [@colbri77](https://github.com/colbri77/))
 - [x] [Is email encrypted yet?](https://docs.google.com/presentation/d/1fRRSvP9J8gZi8vW-ttE5AnHPJeZuDr94fTPCC0ACn6A/edit?usp=sharing) (von [@tanx](https://github.com/tanx))
-- [x] [Intrusion Detection/Prevention for Webservices](https://github.com/web-and-wine/talks/blob/master/webandwineapril2016-suricata.pdf) (von [@norg](https://github.com/norg))
+- [x] [Intrusion Detection/Prevention for Webservices](https://github.com/web-and-wine/talks/blob/main/webandwineapril2016-suricata.pdf) (von [@norg](https://github.com/norg))
 
 ### März 2016
 
@@ -305,7 +305,7 @@ Bitte einfach ein Issue mit Talk-Titel und Kurzinfo aufmachen!
 
 ### Februar 2016
 
-- [x] [VR in the Browser: a-frame introduction](https://github.com/web-and-wine/talks/blob/master/VR_browser.pdf) (von [@m0ndra](https://github.com/m0ndra/))
+- [x] [VR in the Browser: a-frame introduction](https://github.com/web-and-wine/talks/blob/main/VR_browser.pdf) (von [@m0ndra](https://github.com/m0ndra/))
 
 ### Januar 2016
 
@@ -320,7 +320,7 @@ Bitte einfach ein Issue mit Talk-Titel und Kurzinfo aufmachen!
 - [x] [Frontend management – yesterday, today and tomorrow?](http://peerigon.github.io/talks/2015-12-15-webandwine-frontend-management) (von [@jhnns](https://github.com/jhnns/) und [@noxan](https://github.com/noxan))
 - [x] [Advanced frontend optimization (with webpack)](http://sokra.github.io/slides/frontend-optimize) (von [@sokra](https://github.com/sokra))
 
-[Notes zu den Vorträgen](https://github.com/karlhorky/talk-notes/blob/master/2015-12-15-web-and-wine.md) (von [@karlhorky](https://github.com/karlhorky))
+[Notes zu den Vorträgen](https://github.com/karlhorky/talk-notes/blob/main/2015-12-15-web-and-wine.md) (von [@karlhorky](https://github.com/karlhorky))
 
 ### November 2015
 
