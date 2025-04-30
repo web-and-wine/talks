@@ -11,6 +11,11 @@ Bitte einfach ein Issue mit Talk-Titel und Kurzinfo aufmachen!
 
 ## Die Slides der bisherigen Meetup-Talks
 
+### April 2025 (bei TEAM23)
+
+- [ ] Security vulnerability management: OWASP DefectDojo von Michael Wager
+- [x] [Tastaturen](https://talks.florianpichler.de/tastaturen/) (von [Florian Pichler](https://github.com/pichfl))
+
 ### Februar 2025 (bei meteocontrol)
 
 - [ ] Bugs - Housekeeping (von Sebastian Schwarz)
