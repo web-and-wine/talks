@@ -11,6 +11,13 @@ Bitte einfach ein Issue mit Talk-Titel und Kurzinfo aufmachen!
 
 ## Die Slides der bisherigen Meetup-Talks
 
+### Februar 2025 (bei meteocontrol)
+
+- [ ] Bugs - Housekeeping (von Sebastian Schwarz)
+- [ ] F\*ck Feature Branches (von Felix Fischer)
+
+---
+
 ### December 2024
 
 - [x] [Ansible - Easy IaC and CI/CD Automation](https://github.com/user-attachments/files/19719182/Web.Wine.Ansible.pdf)
