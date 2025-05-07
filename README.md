@@ -13,7 +13,7 @@ Bitte einfach ein Issue mit Talk-Titel und Kurzinfo aufmachen!
 
 ### April 2025 (bei TEAM23)
 
-- [ ] Security vulnerability management: OWASP DefectDojo von Michael Wager
+- [x] [Security vulnerability management: OWASP DefectDojo](https://github.com/user-attachments/files/19903311/Web_and_Wine_Talk_VulnerabilityManagement.pdf) von Michael Wager
 - [x] [Tastaturen](https://talks.florianpichler.de/tastaturen/) (von [Florian Pichler](https://github.com/pichfl))
 
 ### Februar 2025 (bei meteocontrol)
