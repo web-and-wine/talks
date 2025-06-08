@@ -11,9 +11,14 @@ Bitte einfach ein Issue mit Talk-Titel und Kurzinfo aufmachen!
 
 ## Die Slides der bisherigen Meetup-Talks
 
+### Mai 2025 (bei digitalXL)
+
+- [ ] [Middleware als Schlüssel für Systemintegrationen und flexible Workflows] (Pascal Baumann & Marco Lembert)
+- [x] [Digitizing an old Pinball machine](https://github.com/web-and-wine/talks/blob/main/Modernizing%20a%20flipper%20machine.pdf) (von [Daniel Dakhno](https://github.com/dakhnod))
+
 ### April 2025 (bei TEAM23)
 
-- [x] [Security vulnerability management: OWASP DefectDojo](https://github.com/user-attachments/files/19903311/Web_and_Wine_Talk_VulnerabilityManagement.pdf) von Michael Wager
+- [x] [Security vulnerability management: OWASP DefectDojo](https://github.com/user-attachments/files/19903311/Web_and_Wine_Talk_VulnerabilityManagement.pdf) (von Michael Wager)
 - [x] [Tastaturen](https://talks.florianpichler.de/tastaturen/) (von [Florian Pichler](https://github.com/pichfl))
 
 ### Februar 2025 (bei meteocontrol)
