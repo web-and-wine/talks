@@ -11,6 +11,10 @@ Bitte einfach ein Issue mit Talk-Titel und Kurzinfo aufmachen!
 
 ## Die Slides der bisherigen Meetup-Talks
 
+### Juni 2025 (bei AraCom)
+
+- [x] Fantastische Terminal Tools und wo sie zu finden sind (Tim Olbrich)
+
 ### Mai 2025 (bei digitalXL)
 
 - [ ] [Middleware als Schlüssel für Systemintegrationen und flexible Workflows] (Pascal Baumann & Marco Lembert)
