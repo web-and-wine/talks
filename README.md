@@ -11,6 +11,11 @@ Bitte einfach ein Issue mit Talk-Titel und Kurzinfo aufmachen!
 
 ## Die Slides der bisherigen Meetup-Talks
 
+### Juni 2025 (bei AraCom)
+
+- [X] [Model Context Protocol - Tools einfach intelligent?](./2025-06-12-Web+Wine-ModelContextProtocol.pdf) ([Robert Jeutter](https://github.com/wieerwill))
+- [ ] [Fantastische Terminal Tools und wo sie zu finden sind] (Tim Olbrich)
+
 ### Mai 2025 (bei digitalXL)
 
 - [ ] [Middleware als Schlüssel für Systemintegrationen und flexible Workflows] (Pascal Baumann & Marco Lembert)
@@ -36,7 +41,7 @@ Bitte einfach ein Issue mit Talk-Titel und Kurzinfo aufmachen!
 
 ### Juli 2024
 
-- [ ] Robotik im Wettkampf (Robert Jeutter)
+- [x] [Robotik im Wettkampf](https://wieerwill.dev/talks/2407_robotik_im_wettkampf) ([Robert Jeutter](https://github.com/wieerwill))
 - [x] [Have you tried Astro?](http://talks.florianpichler.de/have-you-tried-astro/) (von [Florian Pichler](https://github.com/pichfl))
 
 ### March 2024
