@@ -11,10 +11,15 @@ Bitte einfach ein Issue mit Talk-Titel und Kurzinfo aufmachen!
 
 ## Die Slides der bisherigen Meetup-Talks
 
+### Juni 2025 (bei AraCom)
+
+- [X] [Model Context Protocol - Tools einfach intelligent?](./2025-06-12-ModelContextProtocol.pdf) ([Robert Jeutter](https://github.com/wieerwill))
+- [ ] [Fantastische Terminal Tools und wo sie zu finden sind] (Tim Olbrich)
+
 ### Mai 2025 (bei digitalXL)
 
 - [ ] [Middleware als Schlüssel für Systemintegrationen und flexible Workflows] (Pascal Baumann & Marco Lembert)
-- [x] [Digitizing an old Pinball machine](https://github.com/web-and-wine/talks/blob/main/Modernizing%20a%20flipper%20machine.pdf) (von [Daniel Dakhno](https://github.com/dakhnod))
+- [x] [Digitizing an old Pinball machine](./2025-03-Modernizing-a-flipper-machine.pdf) (von [Daniel Dakhno](https://github.com/dakhnod))
 
 ### April 2025 (bei TEAM23)
 
@@ -31,17 +36,17 @@ Bitte einfach ein Issue mit Talk-Titel und Kurzinfo aufmachen!
 ### December 2024
 
 - [x] [Ansible - Easy IaC and CI/CD Automation](https://github.com/user-attachments/files/19719182/Web.Wine.Ansible.pdf)
-- [x] [CleonGPT – A ChatGPT Clone](https://github.com/web-and-wine/talks/blob/main/CleonGPT.pdf) (von [Michael Schwarz](https://github.com/schwamic))
+- [x] [CleonGPT – A ChatGPT Clone](./2024-12-CleonGPT.pdf) (von [Michael Schwarz](https://github.com/schwamic))
 - [x] [Introducing auto-reveal](https://talks.florianpichler.de/auto-reveal/) (von [Florian Pichler](https://github.com/pichfl))
 
 ### Juli 2024
 
-- [ ] Robotik im Wettkampf (Robert Jeutter)
+- [x] [Robotik im Wettkampf](https://wieerwill.dev/talks/2407_robotik_im_wettkampf) ([Robert Jeutter](https://github.com/wieerwill))
 - [x] [Have you tried Astro?](http://talks.florianpichler.de/have-you-tried-astro/) (von [Florian Pichler](https://github.com/pichfl))
 
 ### March 2024
 
-- [x] [Clean code](https://github.com/web-and-wine/talks/blob/main/2024-03-CleanCode.pdf)
+- [x] [Clean code](./2024-03-CleanCode.pdf)
 
 ### Januar 2024
 
@@ -49,30 +54,30 @@ Bitte einfach ein Issue mit Talk-Titel und Kurzinfo aufmachen!
 
 ### October 2023
 
-- [x] [Three ways to open a GitHub issue for your next talk](https://github.com/web-and-wine/talks/raw/master/three_ways_to_open_a_github_issue.pdf) (von [@timidak](https://github.com/timidak))
+- [x] [Three ways to open a GitHub issue for your next talk](./2023-10-three_ways_to_open_a_github_issue.pdf) (von [@timidak](https://github.com/timidak))
 
 ### Juni 2023
 
-- [x] [Docker exec without Docker](https://github.com/web-and-wine/talks/raw/master/Docker_exec_without_Docker.pdf)
+- [x] [Docker exec without Docker](./2023-06-Docker_exec_without_Docker.pdf)
 
 ### Februar 2023
 
-- [x] [aeiou asdf and crie](https://github.com/web-and-wine/talks/raw/master/2023-02-23-aeiou-asdf-and-crie.pdf)
+- [x] [aeiou asdf and crie](./2023-02-23-aeiou-asdf-and-crie.pdf)
 
 ---
 
 ### November 2022
 
-- [x] [Einführung in Property-Based Testing](https://github.com/web-and-wine/talks/raw/master/2022-11-24-einführung-in-property-based-testing.pdf)
+- [x] [Einführung in Property-Based Testing](./2022-11-24-einführung-in-property-based-testing.pdf)
 
 ### October 2022
 
-- [x] [WTF is IoT: “Abtauchen ins Internet of Things”](https://github.com/web-and-wine/talks/raw/master/20221103_web&wine_WTFisIoT_EXTERN.pdf)
+- [x] [WTF is IoT: “Abtauchen ins Internet of Things”](./2022-10-WTF-is-IoT_EXTERN.pdf)
 - [ ] Light vs. Dark. Same Methodes, different Feelings
 
 ### Juni 2022
 
-- [x] [World in Vectors](https://github.com/web-and-wine/talks/raw/master/2022-06-30-Web-and-Wine-World-in-Vectors.pdf)
+- [x] [World in Vectors](./2022-06-30-Web-and-Wine-World-in-Vectors.pdf)
 - [x] [Let's build Kubernetes](https://github.com/web-and-wine/talks/files/9178694/Let.s.build.Kubernetes.pdf)
 
 ### Mai 2022
@@ -100,7 +105,7 @@ Bitte einfach ein Issue mit Talk-Titel und Kurzinfo aufmachen!
 
 ### Januar 2021
 
-- [x] [Docker und seine Buildprobleme](https://raw.githubusercontent.com/web-and-wine/talks/master/Docker%20composability%20and%20Gentoo%20instrumenting.pdf)
+- [x] [Docker und seine Buildprobleme](./2021-01-Docker-composability-and-Gentoo-instrumenting.pdf)
 - [x] [Get Funky - Aspects of functional programming in C#](https://github.com/web-and-wine/talks/files/6020181/C.-.Get.Funky.pptx)
 
 ---
@@ -128,7 +133,7 @@ Bitte einfach ein Issue mit Talk-Titel und Kurzinfo aufmachen!
 ### Januar 2020
 
 - [ ] Must have Web-App Security (Thomas Weyer)
-- [x] [Serverless static websites by example](./Serverless-Static-Websites-pichfl.pdf) (von [Florian Pichler](https://github.com/pichfl))
+- [x] [Serverless static websites by example](./2020-01-Serverless-Static-Websites-pichfl.pdf) (von [Florian Pichler](https://github.com/pichfl))
 
 ---
 
@@ -156,7 +161,7 @@ Bitte einfach ein Issue mit Talk-Titel und Kurzinfo aufmachen!
 ### Mai 2019
 
 - [ ] LEAN UX (Florian Kratzer)
-- [x] [Giving a talk](./Giving-a-talk-pichfl.pdf) (von [@pichfl](https://github.com/pichfl))
+- [x] [Giving a talk](./2019-05-Giving-a-talk-pichfl.pdf) (von [@pichfl](https://github.com/pichfl))
 - [ ] Stress - der langsame Killer (Sebastian Huber)
 
 ### März 2019
@@ -172,8 +177,8 @@ Bitte einfach ein Issue mit Talk-Titel und Kurzinfo aufmachen!
 ### Januar 2019
 
 - [x] [Async Test Data Builders](./2019-01-17_Async_Test_Data_Builders.pdf) (von [@nevik](https://github.com/nevik))
-- [x] [Usability Guidelines](./techtalk_usability.pdf) (von [@m0ndra](https://github.com/m0ndra))
-- [x] [IPv6 Grundlagen](./IPv6.pdf) (von Andreas Herz)
+- [x] [Usability Guidelines](./2019-01-techtalk_usability.pdf) (von [@m0ndra](https://github.com/m0ndra))
+- [x] [IPv6 Grundlagen](./2019-01-IPv6.pdf) (von Andreas Herz)
 
 ---
 
@@ -185,13 +190,13 @@ Bitte einfach ein Issue mit Talk-Titel und Kurzinfo aufmachen!
 ### November 2018
 
 - [x] [Conjuring Demons: The Power of the True Name](https://speakerdeck.com/bwolf/conjuring-demons-the-power-of-the-true-name) (von [@programming-wolf](https://github.com/programming-wolf))
-- [x] [Hack your communication productivity!](./HackYourCommunicationProductivity!.pdf) (von Jonas Riegel)
+- [x] [Hack your communication productivity!](./2018-11-HackYourCommunicationProductivity!.pdf) (von Jonas Riegel)
 - [ ] [Holding on to your performance promises](#) (von [@MayaLekova](https://github.com/MayaLekova))
 
 ### Oktober 2018
 
 - [x] [The N-Body Problem](https://youtu.be/09iTidqkriw) (von [@winsmith](https://github.com/winsmith))
-- [x] [Tools for Designers](./Tools-for-Designers-pichfl.pdf) (von [@pichfl](https://github.com/pichfl))
+- [x] [Tools for Designers](./2018-10-Tools-for-Designers-pichfl.pdf) (von [@pichfl](https://github.com/pichfl))
 
 ### Juli 2018
 
@@ -200,20 +205,20 @@ Bitte einfach ein Issue mit Talk-Titel und Kurzinfo aufmachen!
 
 ### Mai 2018
 
-- [x] [Perfektionismus - Gesund VS Ungesund](./Perfectionismus.pdf) (von [@blacklist](https://github.com/blacklist))
+- [x] [Perfektionismus - Gesund VS Ungesund](./2018-03-Perfectionismus.pdf ) (von [@blacklist](https://github.com/blacklist))
 - [ ] Speed by Design (von Fabian Ziegler)
-- [x] [May I have your attention, please? Let's talk about Humane Tech Design.](./HumaneTechDesign.pdf) (von [@OhKrapp](https://github.com/OhKrapp))
+- [x] [May I have your attention, please? Let's talk about Humane Tech Design.](./2018-05-HumaneTechDesign.pdf) (von [@OhKrapp](https://github.com/OhKrapp))
 
 ### April 2018
 
 - [x] [Full Stack Rust](./2018-04-Full-Stack-Rust_dunkelstern.pdf) (von [@dunkelstern](https://github.com/dunkelstern))
-- [x] [Design for Open Source](./Design-for-Open-Source-pichfl.pdf) (von [@pichfl](https://github.com/pichfl))
+- [x] [Design for Open Source](./2018-04-Design-for-Open-Source-pichfl.pdf) (von [@pichfl](https://github.com/pichfl))
 - [x] [Feel the Glimmer](https://speakerdeck.com/marcoow/feel-the-glimmer-parisjs) (von [@marcoow](https://github.com/marcoow))
 
 ### März 2018
 
 - [x] [GraphQL](./2018-03-GraphQL.pdf) (von [@lechindianer](https://github.com/lechindianer))
-- [x] [Djangular: Kaltes Bier und heiße MVPs](./djangular.pdf) (von [@se-schwarz](https://github.com/se-schwarz))
+- [x] [Djangular: Kaltes Bier und heiße MVPs](./2018-03-djangular.pdf) (von [@se-schwarz](https://github.com/se-schwarz))
 
 ### Februar 2018
 
@@ -221,7 +226,7 @@ Bitte einfach ein Issue mit Talk-Titel und Kurzinfo aufmachen!
 
 ### Januar 2018
 
-- [x] [Everything is Prettier](./Everything-is-Prettier-pichfl.pdf) (von [@pichfl](https://github.com/pichfl))
+- [x] [Everything is Prettier](./2018-01-Everything-is-Prettier-pichfl.pdf) (von [@pichfl](https://github.com/pichfl))
 - [ ] WebSecurity - Welche Möglichkeiten gibt es was zu sichern? (von [@pRiVi](https://github.com/pRiVi))
 - [ ] How to write a Codemod (with jscodeshift/ astexplorer) (von [@Kuirak](https://github.com/Kuirak))
 
@@ -229,7 +234,7 @@ Bitte einfach ein Issue mit Talk-Titel und Kurzinfo aufmachen!
 
 ### Dezember 2017
 
-- [x] [Fish Shell](./Fish-Shell-pichfl.pdf) von [@pichfl](https://github.com/pichfl)
+- [x] [Fish Shell](./2017-12-Fish-Shell-pichfl.pdf) von [@pichfl](https://github.com/pichfl)
 - [x] [Practical RxJS](./2017-12-12_practical_rxjs.pdf) und [Beispiel-Code](https://github.com/XITASO/practical-rxjs) (von [@PatrickLehner](https://github.com/PatrickLehner) und [@apfohl](https://github.com/apfohl))
 - [x] [Maschinelles Lernen - Einführung](./2017-12-Maschinelles-Lernen-Einführung.pdf) (von [@antonwinschel](https://github.com/antonwinschel))
 
@@ -246,7 +251,7 @@ Bitte einfach ein Issue mit Talk-Titel und Kurzinfo aufmachen!
 
 - [x] [Are these my assets?](./2017-07-SRI.md) (von [@theWeird](https://github.com/theWeird))
 - [x] [Reshape the digital design process](./2017-07-Reshape-Digital-Design-Process-25min.pdf) (von Fabian Ziegler // Team23)
-- [x] [How did I survive my hardware project?!](./HowDidISurviveMyHardwareProject%3F!.pdf) (von [@blacklist](https://github.com/blacklist))
+- [x] [How did I survive my hardware project?!](./2017-07-HowDidISurviveMyHardwareProject%3F!.pdf) (von [@blacklist](https://github.com/blacklist))
 
 ### Juni 2017
 
@@ -254,13 +259,13 @@ Bitte einfach ein Issue mit Talk-Titel und Kurzinfo aufmachen!
 
 ### Mai 2017
 
-- [x] [Better Styles with StyleLint](./Better-Styles-with-StyleLint-pichfl.pdf) (von [@pichfl](https://github.com/pichfl))
+- [x] [Better Styles with StyleLint](./2017-05-Better-Styles-with-StyleLint-pichfl.pdf) (von [@pichfl](https://github.com/pichfl))
 - [x] [HTTPS with Let's Encrypt](https://peerigon.github.io/talks/2017-05-16-web-and-wine-https-lets-encrypt/) (von [@acidicX](https://github.com/acidicX))
 
 ### April 2017
 
-- [x] [git deployments done right](https://github.com/web-and-wine/talks/blob/main/2017-04%20git%20Deployments%20done%20right.pdf) (von [@ddanier](https://github.com/ddanier/))
-- [x] [How I created a desktop app in minutes](./How-I-created-a-desktop-app-in-minutes-pichfl.pdf) (Ember & Electron) (von [Florian Pichler](https://github.com/pichfl))
+- [x] [git deployments done right](./2017-04%20git%20Deployments%20done%20right.pdf) (von [@ddanier](https://github.com/ddanier/))
+- [x] [How I created a desktop app in minutes](./2017-04-How-I-created-a-desktop-app-in-minutes-pichfl.pdf) (Ember & Electron) (von [Florian Pichler](https://github.com/pichfl))
 - [x] [A skilled kit - Amazon Alexa skill development](https://github.com/KikoSt/talks/blob/main/Alexa.pdf) (von Kiko Starkmann)
 
 ### März 2017
@@ -276,7 +281,7 @@ Bitte einfach ein Issue mit Talk-Titel und Kurzinfo aufmachen!
 
 ### Dezember 2016
 
-- [x] [1-Minuten-Blog mit Hugo](https://github.com/web-and-wine/talks/blob/main//1-Minuten-Blog_mit_Hugo.md) (von [Daniel Straßner](https://github.com/dastrasmue))
+- [x] [1-Minuten-Blog mit Hugo](./2016-12-1-Minuten-Blog_mit_Hugo.md) (von [Daniel Straßner](https://github.com/dastrasmue))
 
 ### November 2016
 
@@ -288,20 +293,20 @@ Bitte einfach ein Issue mit Talk-Titel und Kurzinfo aufmachen!
 
 ### Juni 2016
 
-- [x] [Xamarin - What's new - A report from Evolve 2016](https://github.com/web-and-wine/talks/blob/main/Web&Wine_Xamarin_2016.pdf) (von [@xitasoappdev](https://github.com/xitasoappdev))
+- [x] [Xamarin - What's new - A report from Evolve 2016](./2016-06-Xamarin.pdf) (von [@xitasoappdev](https://github.com/xitasoappdev))
 - [x] [Dr. Flexbox or how I learned to stop worrying and vertically align the box](http://peerigon.github.io/talks/2016-06-28-webandwine-dr-flexbox) (von [@jhnns](https://github.com/jhnns))
 
 ### Mai 2016
 
 - [x] [Ember.js - An ambitious introduction](http://pichfl.github.io/talks/5-ember-js) (von [@pichfl](https://github.com/pichfl))
-- [x] [Visual storytelling ](https://github.com/web-and-wine/talks/blob/main/Visual-Storytelling_WebWine.pdf) (von [@LisaBorg](https://github.com/LisaBorg/))
+- [x] [Visual storytelling ](./2016-05-Visual-Storytelling.pdf) (von [@LisaBorg](https://github.com/LisaBorg/))
 - [x] [TypeScript - A superset of JavaScript with typing.](http://www.noxan.net/talks/#/) (von [@noxan](github.com/noxan))
 
 ### April 2016
 
-- [x] [Promises of a safer web - WebCrypto in 2016](https://github.com/web-and-wine/talks/blob/main/WebCrypto2016.pdf) (von [@colbri77](https://github.com/colbri77/))
+- [x] [Promises of a safer web - WebCrypto in 2016](./2016-04-WebCrypto.pdf) (von [@colbri77](https://github.com/colbri77/))
 - [x] [Is email encrypted yet?](https://docs.google.com/presentation/d/1fRRSvP9J8gZi8vW-ttE5AnHPJeZuDr94fTPCC0ACn6A/edit?usp=sharing) (von [@tanx](https://github.com/tanx))
-- [x] [Intrusion Detection/Prevention for Webservices](https://github.com/web-and-wine/talks/blob/main/webandwineapril2016-suricata.pdf) (von [@norg](https://github.com/norg))
+- [x] [Intrusion Detection/Prevention for Webservices](./2016-04-suricata.pdf) (von [@norg](https://github.com/norg))
 
 ### März 2016
 
@@ -310,7 +315,7 @@ Bitte einfach ein Issue mit Talk-Titel und Kurzinfo aufmachen!
 
 ### Februar 2016
 
-- [x] [VR in the Browser: a-frame introduction](https://github.com/web-and-wine/talks/blob/main/VR_browser.pdf) (von [@m0ndra](https://github.com/m0ndra/))
+- [x] [VR in the Browser: a-frame introduction](./2016-02-VR_browser.pdf) (von [@m0ndra](https://github.com/m0ndra/))
 
 ### Januar 2016
 
