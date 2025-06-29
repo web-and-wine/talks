@@ -1,13 +1,22 @@
-# Talks
+# Web & Wine Talks 🍷💻
 
-Her mit den Talk Vorschlägen!
+| ![](https://webandwine.org/logo.png) | Einmal im Monat treffen wir uns bei Web & Wine, um gemeinsam über spannende Themen aus der Webentwicklung und angrenzenden Tech-Bereichen zu sprechen - offen, entspannt und auf Augenhöhe. Ob neue Tools, persönliche Erfahrungen, Best Practices oder auch mal ein Blick über den Tellerrand: Wir freuen uns über alles, was inspiriert und zum Austausch anregt. |
+| --- | --- |
 
-## Talk einreichen
+| 🌐 [Zur Webseite](https://webandwine.org/) | 📣 [Zum Meetup](https://www.meetup.com/de-DE/web-and-wine/) | 💬 [Zum Discord](https://discord.gg/PdEVGxGUNh) |
+| --- | --- | --- |
 
-Talks sollten nicht länger als 30 Minuten sein, Lighning Talks die 15 Minuten nicht überschreiten.
-Natürlich können wir auch mal eine Ausnahme machen, sofern es das Programm zulässt.
+## Du willst mitmachen?
 
-Bitte einfach ein Issue mit Talk-Titel und Kurzinfo aufmachen!
+Super! Reiche einfach deinen Talk als GitHub-Issue ein - ein Template dafür ist schon vorbereitet.
+- 👉 Talks: max. 30 Minuten
+- 👉 Lightning Talks: max. 15 Minuten
+
+(Kürzer geht immer - länger nur, wenn’s ins Programm passt)
+
+## Noch unsicher?
+
+Schau gern in die bisherigen Talks & Folien, um ein Gefühl für Themen und Formate zu bekommen. Oder komm direkt als Gast zu unserem nächsten Meetup. Wir freuen uns auf neue Gesichter, neue Perspektiven - und deine Vorschläge!
 
 ## Die Slides der bisherigen Meetup-Talks
 
