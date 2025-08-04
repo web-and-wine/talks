@@ -28,7 +28,7 @@ Schau gern in die bisherigen Talks & Folien, um ein Gefühl für Themen und Form
 ### Juni 2025 (bei AraCom)
 
 - [X] [Model Context Protocol - Tools einfach intelligent?](./2025-06-12-ModelContextProtocol.pdf) ([Robert Jeutter](https://github.com/wieerwill))
-- [ ] [Fantastische Terminal Tools und wo sie zu finden sind] (Tim Olbrich)
+- [X] [Fantastische Terminal Tools und wo sie zu finden sind](./2025-06-12-terminal-tools.md) ([Tim Olbrich](https://github.com/tim-olbrich))
 
 ### Mai 2025 (bei digitalXL)
 
