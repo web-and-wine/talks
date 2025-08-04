@@ -42,7 +42,7 @@ Schau gern in die bisherigen Talks & Folien, um ein Gefühl für Themen und Form
 
 ### Februar 2025 (bei meteocontrol)
 
-- [ ] Bugs - Housekeeping (von Sebastian Schwarz)
+- [x] [Bugs - Housekeeping](https://github.com/web-and-wine/talks/issues/223#issuecomment-3138637089) (von [Sebastian Schwarz](https://github.com/se-schwarz))
 - [ ] F\*ck Feature Branches (von Felix Fischer)
 
 ---
