@@ -20,6 +20,7 @@ Schau gern in die bisherigen Talks & Folien, um ein Gefühl für Themen und Form
 
 ## Die Slides der bisherigen Meetup-Talks
 
+
 ### Juli 2025 (bei meteocontrol)
 
 - [X] [Docker network without Docker](./2025-07-Docker-network-without-Docker.pdf) (Oliver Seitz)
@@ -28,7 +29,7 @@ Schau gern in die bisherigen Talks & Folien, um ein Gefühl für Themen und Form
 ### Juni 2025 (bei AraCom)
 
 - [X] [Model Context Protocol - Tools einfach intelligent?](./2025-06-12-ModelContextProtocol.pdf) ([Robert Jeutter](https://github.com/wieerwill))
-- [ ] [Fantastische Terminal Tools und wo sie zu finden sind] (Tim Olbrich)
+- [X] [Fantastische Terminal Tools und wo sie zu finden sind] (Tim Olbrich)
 
 ### Mai 2025 (bei digitalXL)
 
